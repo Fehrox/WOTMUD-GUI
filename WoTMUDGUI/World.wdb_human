@@ -1,0 +1,3986 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfPlace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Place>
+    <heading> Outside the Sturdy Gates</heading>
+    <description>Stands of black elder and sourgum give way to a well-cobbled path headingwest into the city. Robust gates of bronze and a stalwart portcullis barpassage through the imposing gatehouse, its stones pitted by years of rainand exposure to the weather. On the side of the road, fragile stalks ofyellow broomweed sprout between the cobblestones.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The Edge of the Forest</string>
+      <string xsi:nil="true" />
+      <string> The Eastern Gate</string>
+    </exitHeadings>
+    <placeHash>216357227</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>2105085214</int>
+      <int>0</int>
+      <int>-851141196</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Eastern Gate</heading>
+    <description>A two story high bronze gate and portcullis is set into the wallsurrounding the city, its sheer size a testament to how quickly troopmovement could occur if the city was threatened. Set above the gate areseveral murder holes for siege defense. Mar Rouis Way runs south to north,and Comelle Street is to the west.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mAn Illuminator's apprentice walks by quickly.</string>
+      <string>A Warder walks by, every movement potentially lethal.</string>
+      <string>A serene Aes Sedai glides by.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Mar Rouis Way</string>
+      <string> Outside the Sturdy Gates</string>
+      <string> Mar Rouis Way</string>
+      <string> Comelle Street</string>
+    </exitHeadings>
+    <placeHash>-851141196</placeHash>
+    <connectedPlaceHashes>
+      <int>-2045951193</int>
+      <int>216357227</int>
+      <int>0</int>
+      <int>-2102890286</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Mar Rouis Way</heading>
+    <description>A tree-lined paved road runs north to south, with the protective wallsurrounding the city towering on the eastern side. A variety of buildingson the west side of the street show a variety of architectural vision, asif there is no rhyme or reason to how they were built. To the south is abronze portcullis set into the outer wall.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA black cat meanders to an unknown destination.</string>
+      <string>An old woman knits as the world goes by.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Northeast City Park</string>
+      <string xsi:nil="true" />
+      <string> The Eastern Gate</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-2045951193</placeHash>
+    <connectedPlaceHashes>
+      <int>-62146011</int>
+      <int>0</int>
+      <int>-851141196</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Northeast City Park</heading>
+    <description>An oasis of miniature streams and waterfalls interlaced with greenery, thispark within the city is canopied with trees that flower throughout theyear. A large wall to the north and east provides a boundary betweencivilization and the wilds. Shorelle Boulevard leads to the west, and MarRouis Way is a straight line southward. Mounted on the oil lamp's post area dull gleaming plaque and a sign.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Mar Rouis Way</string>
+      <string> On Shorelle Boulevard</string>
+    </exitHeadings>
+    <placeHash>-62146011</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-2045951193</int>
+      <int>-1373391099</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> On Shorelle Boulevard</heading>
+    <description>The north side of the city is sheltered by a protective wall many storiestall, surely high enough to repel even the most determined invader. Thestreet is paved with smooth river rock tightly locked together as if makinga giant puzzle. Buildings line the south side of the street, each oneunique in size and style.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA peddler pawns his wares here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Northeast City Park</string>
+      <string xsi:nil="true" />
+      <string> An Intersection of Roads</string>
+    </exitHeadings>
+    <placeHash>-1373391099</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-62146011</int>
+      <int>0</int>
+      <int>1804971073</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> An Intersection of Roads</heading>
+    <description>The smooth river rock of the east to west Shorelle Boulevard meets with thenorth to south brickwork of Vsaine Street. The buildings at the corners areseveral stories high, but still far shorter than the protective wallsurrounding the city to the north.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> On Shorelle Boulevard</string>
+      <string> Vsaine Street</string>
+      <string> The North Gate</string>
+    </exitHeadings>
+    <placeHash>1804971073</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1373391099</int>
+      <int>0</int>
+      <int>-1738387218</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> The North Gate</heading>
+    <description>A street paved with smooth river rock intricately laced together leads fromeast to west. A tall and ancient-looking wall bisected by a thick iron gateis the boundary for the city to the north. Upon the gate is emblazoned asigil that looks weathered by the Ages. Lining the road to the south arebuildings that stand so closely together that it would be hard for a cat toslink between them. A blur of dark green to the west could be a stand oftrees, perhaps a park.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA Child of the Light watches with vigilence.</string>
+      <string>A Warder walks by, every movement potentially lethal.</string>
+      <string>A serene Aes Sedai glides by.</string>
+      <string>A lanky Seanchan guard surveys traffic at the gate.</string>
+      <string>A lanky Seanchan guard surveys traffic at the gate.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Before the Northern Gate</string>
+      <string> An Intersection of Roads</string>
+      <string xsi:nil="true" />
+      <string> Shorelle Boulevard</string>
+    </exitHeadings>
+    <placeHash>-1738387218</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1804971073</int>
+      <int>0</int>
+      <int>-1360814003</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Shorelle Boulevard</heading>
+    <description>A tall wall many stories high lines this street to the north, itscrenellated top jutting towards the sky like jagged teeth. Small houses andshops line the south side of the street, with an occasional old leatherleaftree spreading branches towards the sky.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The North Gate</string>
+      <string> The Master Tailor's Shop</string>
+      <string> Shorelle Boulevard</string>
+    </exitHeadings>
+    <placeHash>-1360814003</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1738387218</int>
+      <int>349077577</int>
+      <int>674060455</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Shorelle Boulevard</heading>
+    <description>A road of solidly locked together river rock, smoothed by the passage ofcountless people and conveyances, is lined by an old city wall to the northand smaller shops and buildings to the south.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA Red Eagle soldier walks by proudly.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Shorelle Boulevard</string>
+      <string xsi:nil="true" />
+      <string> Northwest City Park</string>
+    </exitHeadings>
+    <placeHash>674060455</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1360814003</int>
+      <int>0</int>
+      <int>1782490105</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Northwest City Park</heading>
+    <description>A city wall several stories high is mostly hidden by a waterfall ofgreenery and trees in this small park. The wall is old, doubtless made agesago as security against the wilds beyond. In the very center of the smallpark is a fountain shaded by a gnarled willow tree.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA man is here.</string>
+      <string>A woman dressed in hunting clothes stands by, watching.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Shorelle Boulevard</string>
+      <string> Halidar Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1782490105</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>674060455</int>
+      <int>-1972507833</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>6</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Halidar Road</heading>
+    <description>A simple clay roadway runs north to south, with small buildings of fancifuldesign on the east side of the road. The city's protective wall overshadowsthe road from the west, a grim reminder that the outside world can bedangerous. A park to the north looks green and peaceful.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Northwest City Park</string>
+      <string xsi:nil="true" />
+      <string> The Western Gate</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1972507833</placeHash>
+    <connectedPlaceHashes>
+      <int>1782490105</int>
+      <int>0</int>
+      <int>725202854</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>6</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Western Gate</heading>
+    <description>Set into the wall separating the city from the lands beyond is a massivegate of iron. To the north and south stretches Halidar Road, runningparallel to the protection of the wall. To the east is Comelle Street, themajor route through the city itself. Buildings of varying age and sizesline the street, each one a piece of architectural interest.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Halidar Road</string>
+      <string> Comelle Street</string>
+      <string> On Halidar Road</string>
+      <string> Before the Gate</string>
+    </exitHeadings>
+    <placeHash>725202854</placeHash>
+    <connectedPlaceHashes>
+      <int>-1972507833</int>
+      <int>0</int>
+      <int>-191455951</int>
+      <int>129056904</int>
+    </connectedPlaceHashes>
+    <gridRefX>6</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> On Halidar Road</heading>
+    <description>In a straight line from north to south, Halidar Road is the westernmoststreet in the city. To the west the protective wall separating the cityfrom the wilds beyond looms as a silent guardian, and to the east is acollection of buildings from one story shops to multi-story townhomes.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Western Gate</string>
+      <string xsi:nil="true" />
+      <string> Southwest City Park</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-191455951</placeHash>
+    <connectedPlaceHashes>
+      <int>725202854</int>
+      <int>0</int>
+      <int>-1656147908</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>6</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Southwest City Park</heading>
+    <description>This small plot of land within the city is arid, covered with dry sand anddecorative rocks. A small water feature trickles musically among brilliantcacti and other plants with forbidding, spiny surfaces.</description>
+    <interactables>
+      <string>&#x1B;[32mA lantern has been left here.</string>
+      <string>An oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> On Halidar Road</string>
+      <string> Adanza Street</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1656147908</placeHash>
+    <connectedPlaceHashes>
+      <int>-191455951</int>
+      <int>-1422101353</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>6</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Adanza Street</heading>
+    <description>A smooth paved street running east to west, Adanza Street is a narrow roadbarely wide enough for two carts to pass by. The city's protective wallstretches parallel to the street on the south side, and the north side ispacked with shops and private homes.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Outside the Ansaline Gardens Inn</string>
+      <string xsi:nil="true" />
+      <string> Southwest City Park</string>
+    </exitHeadings>
+    <placeHash>-1422101353</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1707657135</int>
+      <int>0</int>
+      <int>-1656147908</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Outside the Ansaline Gardens Inn</heading>
+    <description>A squat building of green limestone to the north is the jewel of the entirestreet, its intricate carvings of flowers and trees appearing almostlifelike. Across the way is the wall surrounding the city, and the streetruns east to west in a straight line.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA man is here.</string>
+      <string>A dust covered coachman stands here, waiting for passengers.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Ansaline Gardens Inn</string>
+      <string> The Southern Gate</string>
+      <string xsi:nil="true" />
+      <string> Adanza Street</string>
+    </exitHeadings>
+    <placeHash>1707657135</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>156472844</int>
+      <int>0</int>
+      <int>-1422101353</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Southern Gate</heading>
+    <description>A narrow gate set into the southern wall leads out to the wilds where anarrow road hardly larger than a goat track has a rock-pocked surface. Asmall way to the north is the city square, and Adanza Street runs parallelto the wall surrounding the southern side of the city. Above the gate aremurder holes, perfect for protected attacks against anything laying siegeto the city itself from beyond.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA muscular ebony warhorse waits patiently for its master.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Emar Dal Way</string>
+      <string> On Adanza Street</string>
+      <string> Near a Gate</string>
+      <string> Outside the Ansaline Gardens Inn</string>
+    </exitHeadings>
+    <placeHash>156472844</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>2056164779</int>
+      <int>-152681834</int>
+      <int>1707657135</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> On Adanza Street</heading>
+    <description>A narrow street on the outskirts of the city, Adanza Street is a smoothroad that has seen decades of travel as people have made their waythroughout the city. An official-looking building to the north has a brassplaque posted next to the door. There is an open park to the east, and tothe west is the small southern gate.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Newcomer's Refuge</string>
+      <string> Along Adanza Street</string>
+      <string xsi:nil="true" />
+      <string> The Southern Gate</string>
+    </exitHeadings>
+    <placeHash>2056164779</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1548613204</int>
+      <int>0</int>
+      <int>156472844</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Along Adanza Street</heading>
+    <description>The southernmost road in the city is narrow, with such close quarters thatit's as if the street was an afterthought when the city was built. The wallsurrounding the city looms to the south offering protection againstanything that could be roaming beyond them. To the east is a park, and tothe west the street is a straight line of shops and houses.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The Southeast City Park</string>
+      <string xsi:nil="true" />
+      <string> On Adanza Street</string>
+    </exitHeadings>
+    <placeHash>-1548613204</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1759129684</int>
+      <int>0</int>
+      <int>2056164779</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Southeast City Park</heading>
+    <description>A meticulously tended lawn covers the park like a swath of emerald silk,dotted with flowers bursting with fragrance and gem-like hues. A stylizedpond shimmers clear blue in the exact center with artful benches along itsshoreline. It's almost easy to ignore the protective wall around the city,on the east and southern sides of the park.  A BIG SIGN YOU CANNOT POSSIBLY MISS IS HERE.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA Child of the Light watches with vigilence.</string>
+      <string>Hand on his sword hilt, a Borderlander watches the shadows.</string>
+      <string>A Red Eagle soldier walks by proudly.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Mar Rouis Way</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Along Adanza Street</string>
+    </exitHeadings>
+    <placeHash>-1759129684</placeHash>
+    <connectedPlaceHashes>
+      <int>902150364</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-1548613204</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Mar Rouis Way</heading>
+    <description>Very old leatherleaf trees grow on the west side of the street, carefullytended to almost blend into the architecture of the buildings lining thatside of the road. The protective wall of the city looms to the east, with abronze gate set into it a little to the north. To the south is an opengrass area dotted with colorful flowers.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA noblewoman of Tear watches you discreetly.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Eastern Gate</string>
+      <string xsi:nil="true" />
+      <string> The Southeast City Park</string>
+      <string> The Grocer Shop</string>
+    </exitHeadings>
+    <placeHash>902150364</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1759129684</int>
+      <int>1225852777</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Comelle Street</heading>
+    <description>A wide street with a median of shady leatherleaf trees runs east to west,the largest and busiest route throughout the city. To the west is the citysquare, and buildings on both sides of the street compete with each otherfor height. Some buildings look plain while others seem to be craftedpieces of art.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mAn Illuminator's apprentice walks by quickly.</string>
+      <string>A city lamplighter stands nearby, attending his duties.</string>
+      <string>An officer of the Lion Warden watches the crowds.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Clean, Well</string>
+      <string> The Eastern Gate</string>
+      <string xsi:nil="true" />
+      <string> Along Comelle Street</string>
+    </exitHeadings>
+    <placeHash>-2102890286</placeHash>
+    <connectedPlaceHashes>
+      <int>842020978</int>
+      <int>-851141196</int>
+      <int>0</int>
+      <int>-1988384933</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Along Comelle Street</heading>
+    <description>The widest street in the entire city, Comelle Street is lined by the oldestbuildings with the most fantastical designs. Ancient leatherleaf trees castshady branches overhead no matter the time of year. To the east is a largegate set into the city wall, and to the west is the city square. A tallslender white tower is up the street to the north.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Vsaine Street</string>
+      <string> Comelle Street</string>
+      <string xsi:nil="true" />
+      <string> The City Square</string>
+    </exitHeadings>
+    <placeHash>-1988384933</placeHash>
+    <connectedPlaceHashes>
+      <int>1810191097</int>
+      <int>-2102890286</int>
+      <int>0</int>
+      <int>141851261</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The City Square</heading>
+    <description>A giant circle in the center of the city, this spot was long ago misnamedas the City Square. In the center of the circle is a large fountain whichanyone can get water from. Usually a popular spot for gathering, the CitySquare is often where friends meet to chat, do business, or rest. Mountedon the oil lamp's post are a dull gleaming plaque and a sign.</description>
+    <interactables>
+      <string>&#x1B;[32mA stout wooden barrel stands nearby.</string>
+      <string>The waters of a blue-veined marble fountain pour forth here.</string>
+      <string>An oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mHand on his sword hilt, a Borderlander watches the shadows.</string>
+      <string>The Eye of the World town crier stands here, spreading the news.</string>
+      <string>A battle scarred warrior stands nearby.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Along Comelle Street</string>
+      <string> Emar Dal Way</string>
+      <string> On Comelle Street</string>
+    </exitHeadings>
+    <placeHash>141851261</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1988384933</int>
+      <int>-1711775450</int>
+      <int>-488978668</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> On Comelle Street</heading>
+    <description>A long, wide street that runs straight from east to west has a median ofleatherleaf trees that seem as old as the buildings along the way. To theimmediate east is the city square, and to the west the street continuestowards a far-off city wall.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The City Square</string>
+      <string xsi:nil="true" />
+      <string> Comelle Street</string>
+    </exitHeadings>
+    <placeHash>-488978668</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>141851261</int>
+      <int>0</int>
+      <int>-545223812</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Comelle Street</heading>
+    <description>Old, sprawling leatherleaf trees form a median along the oldest street intown. To the north is the strong smell of leather and oil, and to the southis the metallic tang of metalworking. Tall buildings line the street buteven they are dwarfed by the sheer mass and height of the city wall alittle to the west.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Master Armorer's Shop</string>
+      <string> On Comelle Street</string>
+      <string> The Master Weaponsmith's Shop</string>
+      <string> The Western Gate</string>
+    </exitHeadings>
+    <placeHash>-545223812</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-488978668</int>
+      <int>-519723835</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Master Armorer's Shop</heading>
+    <description>Whitewashed walls offer a stark contrast to the variety of armor types ondisplay. An opening at the back of the shop leads to a small outer yardwhere the armorer perfects his trade. Within the shop can be found anythingfrom basic leather to high quality metal armor, shields and helmets. Aprofessionally lettered sign is next to the door.A warning has been posted here.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn armorer stands here, working hard.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Comelle Street</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1154669289</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-545223812</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Master Weaponsmith's Shop</heading>
+    <description>This shop is clearly run by someone of skill who loves weaponry as much, ifnot more than, his own life. From staffs to swords, from knives to whips,the master weaponsmith has something for everyone. A sign by a window hashack marks on it.A warning has been posted here.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA weaponsmith is prepared to sell his best equipment.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Comelle Street</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-519723835</placeHash>
+    <connectedPlaceHashes>
+      <int>-545223812</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Emar Dal Way</heading>
+    <description>Paved with brick lined with moss, this quaint street is well tended withflower boxes and hosts smaller private homes. Directly to the north is theCity Square, and to the south the road continues towards the city wall. TheAnsaline Gardens Inn is to the west, a popular place for visitors to get ameal or a place to stay the night. A cork covered board is set into thewall next to the Inn's entry, a popular place to leave notes.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The City Square</string>
+      <string xsi:nil="true" />
+      <string> The Southern Gate</string>
+      <string> The Ansaline Gardens Inn</string>
+    </exitHeadings>
+    <placeHash>-1711775450</placeHash>
+    <connectedPlaceHashes>
+      <int>141851261</int>
+      <int>0</int>
+      <int>0</int>
+      <int>2146806426</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Ansaline Gardens Inn</heading>
+    <description>A large room of bleached oak practically shines, day or night. Clean tablesflank a large central stone fireplace and a long bar set along a wall istended quickly. Stairs lead up to the private chambers where, for amoderate fee, a weary guest can spend a peaceful night. Throughout the roomare real plants of exotic species, a small remembrance of another place andtime long lost. Mounted on the wall are a dull gleaming plaque and a sign.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA black dog is here, wagging its tail.</string>
+      <string>A slender woman flips a dagger from hand to hand.</string>
+      <string>A bartender serves customers with a greedy smile.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Emar Dal Way</string>
+      <string> Outside the Ansaline Gardens Inn</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>2146806426</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1711775450</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Vsaine Street</heading>
+    <description>Tightly packed bricks line this short street, each one a different colorfrom the palest clay brown to a deep russet hue. A slender white tower, itslines simple and unadorned, is directly west. Smaller buildings shelterbeneath its shadow, almost dwarfed by its size.</description>
+    <interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> An Intersection of Roads</string>
+      <string xsi:nil="true" />
+      <string> Along Comelle Street</string>
+      <string> The Tower of Legends</string>
+    </exitHeadings>
+    <placeHash>1810191097</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1988384933</int>
+      <int>-241571761</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Tower of Legends</heading>
+    <description>Polished wooden floors gleam underfoot in this circular tower, no furnituremarring its surface. Murals painted upon the walls show the past, in allits glory or moments of sadness. A spiral staircase is built along theentire wall, leading upward in a long strenuous journey to the top.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA black dog is here, wagging its tail.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Vsaine Street</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-241571761</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1810191097</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Master Tailor's Shop</heading>
+    <description>A long counter running the length of this shop is covered with bolts ofcloth from the most basic cotton to exotic watered silk. Several pre-madegarments are on display, with various dressmaker's forms showing creationsin progress. An elegantly lettered sign shows the shop's hours.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA tailor mends some clothing.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Shorelle Boulevard</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>349077577</placeHash>
+    <connectedPlaceHashes>
+      <int>-1360814003</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Edge of the Forest</heading>
+    <description>The trail from the city thins and fades to dirt, reclaimed by the grassesand creeping roots of the weald. The edge of the forest rises in a wall ofgnarled oak that looms over the smaller stands of leatherleaf and alder,the branches of all reaching skyward in a tangled cacophony of limbs. Agentle breeze carries the sound of water trickling from the south. The waynorth is thick with tangled briars.</description>
+    <interactables>
+      <string>&#x1B;[32mThe corpse of a stout young sapling is lying here.</string>
+      <string>&#x1B;[33mA wild boar runs through the forest.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A wild boar runs through the forest.</string>
+      <string>A wild boar runs through the forest.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> An Opening in the Canopy</string>
+      <string> The Forested Slope</string>
+      <string> The Cleft of the Valley</string>
+      <string> Outside the Sturdy Gates</string>
+    </exitHeadings>
+    <placeHash>2105085214</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1598086497</int>
+      <int>216357227</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Cleft of the Valley</heading>
+    <description>The steep sides of the forested valley rise sharply to the north, treesstretching their hands to the sky in supplication. The walls of the valleyare pitted with gullies gouged out by the cold fingers of the rain,rivulets of water collecting in a trickling brook that gurgles over stonesrubbed smooth by the passage of time and the constant, unending tumbling ofrock over rock.</description>
+    <interactables>
+      <string>&#x1B;[32mThe waters of a stream chatter as they run over the streambed here.</string>
+      <string>&#x1B;[33mA timid fawn is ready to flee.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A handsome stag stands here, ready to run.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Edge of the Forest</string>
+      <string> Among the Splintered Briars</string>
+      <string xsi:nil="true" />
+      <string> A Pond Beneath the Branches</string>
+    </exitHeadings>
+    <placeHash>-1598086497</placeHash>
+    <connectedPlaceHashes>
+      <int>2105085214</int>
+      <int>-2003645556</int>
+      <int>0</int>
+      <int>-899217313</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Pond Beneath the Branches</heading>
+    <description>Stands of alder and oak thrust from the loamy soil tall and proud asspears, their leaves spread like hands to catch the rain. The streamtrickling in from the east has gathered in a basin of shattered graniteshards, chunks of the rocky outcropping above that have plummeted to thebase of the valley and blocked the stream. The water continues, albeit at amuch slower pace, beneath the stones.</description>
+    <interactables>
+      <string>&#x1B;[32mThe waters of a stream chatter as they run over the streambed here.</string>
+      <string>&#x1B;[33mA long-eared rabbit is here, looking quite sick.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A badger is rummaging about, looking for stuff to eat.</string>
+      <string>A sturdy white-maned pony tosses its head here.</string>
+      <string>A sturdy white-maned pony tosses its head here.</string>
+      <string>A sturdy white-maned pony tosses its head here.</string>
+      <string>A sturdy white-maned pony tosses its head here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The Cleft of the Valley</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-899217313</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1598086497</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Among the Splintered Briars</heading>
+    <description>Tangled knots of chokevine and blackthorn are trampled into the banks ofthe stream that trickles through the base of the valley. Tiny white flowerslitter the muddy ground, chopped and churned by the hooves of the creaturesthat drink from the brook. The water meanders to the west, tumbling overstones of all shapes and hue. Moss covered rocks protrude rudely from thecenter of the stream, beckoning the feet of the unwary.</description>
+    <interactables>
+      <string>&#x1B;[32mThe waters of a stream chatter as they run over the streambed here.</string>
+      <string>&#x1B;[33mA timid fawn is ready to flee.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A handsome stag stands here, ready to run.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A wild boar runs through the forest.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Forested Slope</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> The Cleft of the Valley</string>
+    </exitHeadings>
+    <placeHash>-2003645556</placeHash>
+    <connectedPlaceHashes>
+      <int>-1476990118</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-1598086497</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Forested Slope</heading>
+    <description>Knotted blackwood trees are dotted across the shoulders of the valley,vines with red-striped leaves winding along their branches. To the east,the forest spreads out for miles across the rolling hills, a thick,impenetrable ocean of verdant life. The loamy soil to which the trees clingso precariously drops sharply to the south, marked with the dung of passinganimals.</description>
+    <interactables>
+      <string>&#x1B;[32mThe corpse of a stout young sapling is lying here.</string>
+      <string>&#x1B;[33mA badger is rummaging about, looking for stuff to eat.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A handsome stag stands here, ready to run.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>Sharri of Kandor is here, fighting a stout young sapling.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A badger is rummaging about, looking for stuff to eat.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A young leatherleaf begins to thicken with age.</string>
+      <string>A young leatherleaf begins to thicken with age.</string>
+      <string>A young leatherleaf begins to thicken with age.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Beneath the Arching Boughs</string>
+      <string xsi:nil="true" />
+      <string> Among the Splintered Briars</string>
+      <string> The Edge of the Forest</string>
+    </exitHeadings>
+    <placeHash>-1476990118</placeHash>
+    <connectedPlaceHashes>
+      <int>-1027491832</int>
+      <int>0</int>
+      <int>-2003645556</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Beneath the Arching Boughs</heading>
+    <description>A dusty dirt track marked with the spoor of animals wends its way betweendusky trunks of oak. The upper branches splayed overhead press close in,blotting the sky from view. Under the dense boughs, nothing green and vitalflourishes except the moss that spreads gentle fingers across the gnarledbodies of the trees, clinging to even the smallest crack in the rough bark.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA long-eared rabbit is here, looking quite sick.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A timid fawn is ready to flee.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A squirrel is here, chittering.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> The Forested Slope</string>
+      <string> An Opening in the Canopy</string>
+    </exitHeadings>
+    <placeHash>-1027491832</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1476990118</int>
+      <int>-1874416254</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> An Opening in the Canopy</heading>
+    <description>As the forest opens out into a small clearing edged with lumps of shatteredgranite the canopy overhead thins and gives way to the sky. Proud oaksstand watch between meagre stands of alder, framing an opening in theundergrowth to the west. A slight breeze carries the scent of resins andthe sound of running water from the south, where the ground slantsdownwards and thorny briars entwine in barbed embrace.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA plump pheasant is here flying around.</string>
+      <string>A plump pheasant is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Beneath the Arching Boughs</string>
+      <string> The Edge of the Forest</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1874416254</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1027491832</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Before the Gate</heading>
+    <description>Great plains from the east come to a quick end approaching the city.Constant traffic in and out of the gates has packed the ground hard. To theeast paving stones lain by stonemasons from the city begin to lead up tothe huge iron gate. A small path branches off from the main walk leadingsouth along the wall.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The Western Gate</string>
+      <string> Along the Wall</string>
+      <string> A Low Swale</string>
+    </exitHeadings>
+    <placeHash>129056904</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>725202854</int>
+      <int>-1827074310</int>
+      <int>141745292</int>
+    </connectedPlaceHashes>
+    <gridRefX>7</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Along the Wall</heading>
+    <description>A small trail leads along the great protective wall of the city. Quicklyfading the path leads hardly a quarter of the way south along the wallgiving away to the wild. The wall looms overhead, parapets and murder holescut into the stone make for easy defense should the city ever need it.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA wilted tree leans to one side, on the brink of death.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Before the Gate</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1827074310</placeHash>
+    <connectedPlaceHashes>
+      <int>129056904</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>7</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Low Swale</heading>
+    <description>Thick knee-high grass spreads from the swale with bright spots of wildflowers that punctuate the variegated greens and golds of the grasses. Amyriad of little creatures populate the area, they have chewed the petalsof the flowers leaving some bare and have left tracks in the soft earth.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk cow nibbles on some greenery.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A snake is lying on the ground here.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A muscular ebony warhorse waits patiently for its master.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Before the Gate</string>
+      <string> A Patch of Wildflowers</string>
+      <string> A Sea of Grass</string>
+    </exitHeadings>
+    <placeHash>141745292</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>129056904</int>
+      <int>-641133115</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>8</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Patch of Wildflowers</heading>
+    <description>A swale to the north leaves the land here rich, and full of flowers. Brightcolors of red, yellow, and orange stand out sharply from the dull earthtones of the grass. Broken stems dot the edges of the plot where animalshave been careless of the vegetation.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA snake is lying on the ground here.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>A shaggy brown mare stands here.</string>
+      <string>A shaggy brown mare stands here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Low Swale</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Windswept Plains</string>
+    </exitHeadings>
+    <placeHash>-641133115</placeHash>
+    <connectedPlaceHashes>
+      <int>141745292</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1686186730</int>
+    </connectedPlaceHashes>
+    <gridRefX>8</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Windswept Plains</heading>
+    <description>Long stalks of grass stretch across the gently rolling earth. Ages ofweather have forced all the grass to grow at the same angle. A stretch ofthe faded growth has been matted down with deer tracks and the spoor ofother creatures visible in the spots of bare dirt.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA plump pheasant is here flying around.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Sea of Grass</string>
+      <string> A Patch of Wildflowers</string>
+      <string xsi:nil="true" />
+      <string> A Small Gully</string>
+    </exitHeadings>
+    <placeHash>1686186730</placeHash>
+    <connectedPlaceHashes>
+      <int>-1385225752</int>
+      <int>-641133115</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>9</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Sea of Grass</heading>
+    <description>Rocky ground gives way to endless grasslands. Large areas of the grass arekept short by animals, native and tame, grazing across the plains. Smalltrails and depressions mark the passage of smaller wild creatures. Rarely,wind battered rocks and lone trees will break the continuous flow of land.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA plump pheasant is visible flying high in the sky.</string>
+      <string>A plump pheasant is here flying around.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A snake is lying on the ground here.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Rippling Plains</string>
+      <string> A Low Swale</string>
+      <string> Windswept Plains</string>
+      <string> Nearing a Hill</string>
+    </exitHeadings>
+    <placeHash>-1385225752</placeHash>
+    <connectedPlaceHashes>
+      <int>-1496322061</int>
+      <int>0</int>
+      <int>1686186730</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>9</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Rippling Plains</heading>
+    <description>Land gradually begins to ripple in waves of small hills. Atop thehillocks, the grass is a shorter, less luxuriant in its growth, but in thelittle valleys between the growth is even more verdant. The horizon seemsto be days away and the sky to continue on forever.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk with massive antlers eyes you with curiosity.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A muscular ebony warhorse waits patiently for its master.</string>
+      <string>A muscular ebony warhorse waits patiently for its master.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> A Sea of Grass</string>
+      <string> Through the Prairie</string>
+    </exitHeadings>
+    <placeHash>-1496322061</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1385225752</int>
+      <int>1876840572</int>
+    </connectedPlaceHashes>
+    <gridRefX>9</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Through the Prairie</heading>
+    <description>Orderly fields lay long abandoned in great stretched out rows. The rigidrectangles of different crops have faded over the years as farmers left andwildlife seeped into the land. Hollows in the tall growth show wherecreatures have made beds and small lines show their trails.</description>
+    <interactables>
+      <string>&#x1B;[32mA fine-grained oilstone lies upon the ground.</string>
+      <string>&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The Rippling Plains</string>
+      <string> Nearing a Hill</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1876840572</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1496322061</int>
+      <int>-1427865683</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>10</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Nearing a Hill</heading>
+    <description>The endless plain begins a gradual slope to a large, low-slung hill.Burrows and the occasional rock team up to create treacherous footing wherescraggly brush makes a path. At the base of the hill is a crack in theground that widens to reveal rocks and bubbling water to the south.</description>
+    <interactables>
+      <string>&#x1B;[32mA lantern has been left here.</string>
+      <string>&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Through the Prairie</string>
+      <string> A Sea of Grass</string>
+      <string> A Small Gully</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1427865683</placeHash>
+    <connectedPlaceHashes>
+      <int>1876840572</int>
+      <int>0</int>
+      <int>1325774344</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>10</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Small Gully</heading>
+    <description>A gash in the earth starts out small, but grows swiftly from something thatcan be easily stepped over to an obstacle to be worked around. Grass growsalong both rims, making the gully seem deeper than it is. The banks aremostly bare rocks, but a trickle of water bubbles through the bottom.</description>
+    <interactables>
+      <string>&#x1B;[32mA small stream trickles up from between the cracks.</string>
+      <string>&#x1B;[33mA snake is lying on the ground here.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A lynx creeps low to the ground, hunting for food.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>A wilted tree leans to one side, on the brink of death.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Nearing a Hill</string>
+      <string> Windswept Plains</string>
+      <string> The Widening Ravine</string>
+      <string> West of the Gully</string>
+    </exitHeadings>
+    <placeHash>1325774344</placeHash>
+    <connectedPlaceHashes>
+      <int>-1427865683</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-1333485572</int>
+    </connectedPlaceHashes>
+    <gridRefX>10</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> West of the Gully</heading>
+    <description>A deep gash in the land to the east with the hills rising up to the northpinch the ground into shallow folds. An old, old trail cuts from the gullythrough the grass that threatens to overgrow it. Mixed in with the abundantwild grass are patches of wheat and barley.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A plump pheasant is here flying around.</string>
+      <string>A snake is lying on the ground here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> A Small Gully</string>
+      <string> A Trail Through the Grass</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1333485572</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1325774344</int>
+      <int>-809571680</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>11</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Trail Through the Grass</heading>
+    <description>Tendrils of vines stretch across the packed ground towards the ravine tothe east. The track angles to the west towards an abandoned and ramshacklebuilding. The edges of the path have long been faded and worn. Bare patchesof dirt barely mark the way east to the old house.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA long-eared rabbit is here, looking quite sick.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A lynx creeps low to the ground, hunting for food.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> West of the Gully</string>
+      <string xsi:nil="true" />
+      <string> A Bow in the Creek</string>
+      <string> Before an Old House</string>
+    </exitHeadings>
+    <placeHash>-809571680</placeHash>
+    <connectedPlaceHashes>
+      <int>-1333485572</int>
+      <int>0</int>
+      <int>1429332962</int>
+      <int>-1234339185</int>
+    </connectedPlaceHashes>
+    <gridRefX>11</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Before an Old House</heading>
+    <description>A few rock columns mark a boundary, but against what is long forgotten.Grasses and weeds dominate most of the yard. Flagstones form a path towardsthe door of the near-ruin, the stones lying uneven and a few missing. Thebuilding itself looks about ready to fall over.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk cow nibbles on some greenery.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> A Trail Through the Grass</string>
+      <string> A Ramshackle Building</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1234339185</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-809571680</int>
+      <int>-1360970456</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>12</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Ramshackle Building</heading>
+    <description>The building has been abandoned for a long time. Clay tiles are missingfrom the roof leaving gaps. Straw and other debris litter the floor. Thereare signs of animals everywhere, droppings and tracks cover the ruinedfloor. Large cracks in the floor show deep black of empty space underneath.Fallen to the ground are a dull gleaming plaque and a sign.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Before an Old House</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1360970456</placeHash>
+    <connectedPlaceHashes>
+      <int>-1234339185</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>12</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Bow in the Creek</heading>
+    <description>Water trickles in from the east and turns gently north bubbling over theoccasional rock. The water's bank fades from a steep to gentle along thenorthern edge while to the south it has grown into a small cliff loomingover the water. Watercress and dogwood dabble their dark leaves and tinyflowers into the stream.</description>
+    <interactables>
+      <string>&#x1B;[32mA creek flows slowly here between its banks.</string>
+      <string>&#x1B;[33mAn elk cow nibbles on some greenery.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Trail Through the Grass</string>
+      <string> A Rippling Creek</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1429332962</placeHash>
+    <connectedPlaceHashes>
+      <int>-809571680</int>
+      <int>655095623</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>11</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Rippling Creek</heading>
+    <description>High stretches of stone from the north fall sharply and a trickle of waterturns into a respectable creek. Thorny bushes spread along the banksclosing in the water's flow. The creek itself dances over its rock-and-sandbed. Many of the plain's animals have made this their watering place andtracks lead to and from the banks.</description>
+    <interactables>
+      <string>&#x1B;[32mA creek flows slowly here between its banks.</string>
+      <string>&#x1B;[33mAn elk cow nibbles on some greenery.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A long-eared rabbit is here, looking quite sick.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A plump pheasant is here flying around.</string>
+      <string>A snake is lying on the ground here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Widening Ravine</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> A Bow in the Creek</string>
+    </exitHeadings>
+    <placeHash>655095623</placeHash>
+    <connectedPlaceHashes>
+      <int>-738227585</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1429332962</int>
+    </connectedPlaceHashes>
+    <gridRefX>10</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Widening Ravine</heading>
+    <description>A gap in the earth grows as it winds south becoming a proper ravine withtreacherous footing. A riotous snarl of thorny brush lines the steep wallsof the crevasse. A newly born runnel of water drifts down the gully,splashing over pebbles and twisting around larger rocks.</description>
+    <interactables>
+      <string>&#x1B;[32mA lantern has been left here.</string>
+      <string>A small stream trickles up from between the cracks.</string>
+      <string>&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>An elk cow nibbles on some greenery.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>A spindly oak sapling struggles to grow.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Small Gully</string>
+      <string xsi:nil="true" />
+      <string> A Rippling Creek</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-738227585</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>655095623</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>10</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Near a Gate</heading>
+    <description>A narrow track worn flat in the sandy grass by the tramp of horse, foot andwagon courses between the gate in the walls to the north and the dry plainsto the south. Further south hills of golden sand extend as far as the eyecan see like waves of a dry yellow ocean. A burnt patch sheltered by thecity wall marks a well used camping ground. A collection of rough boulderslies to the east, through which a narrow path meanders.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Southern Gate</string>
+      <string> A Rocky Path</string>
+      <string> Track in the Plains</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-152681834</placeHash>
+    <connectedPlaceHashes>
+      <int>156472844</int>
+      <int>-749825980</int>
+      <int>-257068169</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Track in the Plains</heading>
+    <description>The roadway can be seen clearly extending to the north towards the city,but shifting sand and wind seems to have covered most of the rest of thetrail. Pale grasses with hardly a tinge of green sprout from the sandyearth. A wall of redstone rises steeply to the south and travellers wouldhave to go east or west to pass around it.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA disease-ridden elk with blackened antlers stands before you.</string>
+      <string>A scaly brown and yellow lizard sits here, fading into the clay around it.</string>
+      <string>A large, green lizard scurries about, hunting insects.</string>
+      <string>A dun snake is here, hissing sharply.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Near a Gate</string>
+      <string> Dry Sands</string>
+      <string xsi:nil="true" />
+      <string> Rocky Sands</string>
+    </exitHeadings>
+    <placeHash>-257068169</placeHash>
+    <connectedPlaceHashes>
+      <int>-152681834</int>
+      <int>594779694</int>
+      <int>0</int>
+      <int>-580010588</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Rocky Sands</heading>
+    <description>Shriveled shrubs with small spiky leaves grow in clumps from the redcolored earth. The surface underfoot is rocky rather than sandy but stillbone dry and without any topsoil to support larger plants. A faint traillies to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA black tree with bloated leaves sprouts from the ground, branches quivering.</string>
+      <string>A thicket of thorns covers the area here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Track in the Plains</string>
+      <string> Patchy Trail</string>
+      <string> Parched Ground</string>
+    </exitHeadings>
+    <placeHash>-580010588</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-257068169</int>
+      <int>0</int>
+      <int>18523074</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Parched Ground</heading>
+    <description>The dry earth and sand mix and some vegetation can be seen to grow againstthe steep redstone cliffs to the west. The slope is so steep as to blockpassage in that direction. There seems to be a complete lack of water inthis area. It is a wonder the plants can survive at all.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Rocky Sands</string>
+      <string> Sand and More Sand</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>18523074</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-580010588</int>
+      <int>-1140021265</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Sand and More Sand</heading>
+    <description>Gusts shift grains of sand hither and thither from one dune to the next.Little life grows in the shifting terrain though the odd cacti clings tolife against the odds. Rocky cliffs mark the beginning of the mountainrange to the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA fly is buzzing around here somewhere.</string>
+      <string>A stealthy cougar gracefully makes its way through the terrain.</string>
+      <string>A trolloc is here, drooling and mindlessly swatting at flies.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Parched Ground</string>
+      <string> Patchy Trail</string>
+      <string> Scoured Ridges</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1140021265</placeHash>
+    <connectedPlaceHashes>
+      <int>18523074</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Dry Sands</heading>
+    <description>Swirls of yellow and orange quartz merge to create a multi-hued landscapethat shifts and changes as the wind dictates. Dunes rise and fall,sometimes overnight, and the only stable signpost in the wilderness is thecity far to the north.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA disease-ridden elk with blackened antlers stands before you.</string>
+      <string>A dun snake is here, hissing sharply.</string>
+      <string>A scaly brown and yellow lizard sits here, fading into the clay around it.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Yellow Dunes</string>
+      <string> Mixing Sands</string>
+      <string> Track in the Plains</string>
+    </exitHeadings>
+    <placeHash>594779694</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-7335784</int>
+      <int>-252483542</int>
+      <int>-257068169</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Rocky Path</heading>
+    <description>A rutted path strewn with rocks wends through dense trees and underbrush,almost in a state of twilight even at the height of the day. To the northis the safety of the city walls and to the east the path continues furtherinto the wilds.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> A Clearing in the Brush</string>
+      <string xsi:nil="true" />
+      <string> Near a Gate</string>
+    </exitHeadings>
+    <placeHash>-749825980</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1643119716</int>
+      <int>0</int>
+      <int>-152681834</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Clearing in the Brush</heading>
+    <description>A small clearing in the bushes is surrounded by briars and brambles whosebranches seem to reach out in search of something to tear into. A path tothe west is clearly the way out. Secured to a large flat boulder are a dullgleaming plaque and a sign.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> A Rocky Path</string>
+    </exitHeadings>
+    <placeHash>1643119716</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-749825980</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Yellow Dunes</heading>
+    <description>Barren yellow desert stretches as far as the eye can see in all directions.The dunes are mercilessly dry with not even hardy cactii surviving theharsh climes. It would be easy to become lost as the wind constantlyreshapes the shifting landscape.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA dun snake is here, hissing sharply.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Base of a Huge Dune</string>
+      <string> Dry Sands</string>
+    </exitHeadings>
+    <placeHash>-7335784</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>246327287</int>
+      <int>594779694</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Base of a Huge Dune</heading>
+    <description>Yellow sand stretches in all directions. A massive sand dune towers to theeast and above. It dominates the whole area. At times the winds blowsfiercely causing sand storms. Little other than the hardiest plants andanimals can live in these dry conditions.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Yellow Dunes</string>
+      <string xsi:nil="true" />
+      <string> Brown Sand</string>
+      <string> Mixing Sands</string>
+    </exitHeadings>
+    <placeHash>246327287</placeHash>
+    <connectedPlaceHashes>
+      <int>-7335784</int>
+      <int>0</int>
+      <int>1042147650</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Brown Sand</heading>
+    <description>Sparse growths of cacti and grass grow in the valleys formed between smallwind-carved pyramids of ugly brown sand. To the south and east the landbecomes rocky and impassable. The arid landscape is interrupted by a largedune to the north.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA disease-ridden elk with blackened antlers stands before you.</string>
+      <string>A stealthy cougar gracefully makes its way through the terrain.</string>
+      <string>A black tree with bloated leaves sprouts from the ground, branches quivering.</string>
+      <string>A black tree with bloated leaves sprouts from the ground, branches quivering.</string>
+      <string>A black tree with bloated leaves sprouts from the ground, branches quivering.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Base of a Huge Dune</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> The Sea of Sand</string>
+    </exitHeadings>
+    <placeHash>1042147650</placeHash>
+    <connectedPlaceHashes>
+      <int>246327287</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1006115156</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Sea of Sand</heading>
+    <description>Wind has pushed rolling waves of sand in from the east making a hillystretch in the desert. The waves break forcing the high dunes to give wayin rigid crests. Veins of red and yellow sand start to break into the landto the east. Massive piles of rock make passage south all but impossible.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA vulture is here, sitting by a carcass.</string>
+      <string>A vulture is here, sitting by a carcass.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Mixing Sands</string>
+      <string> Brown Sand</string>
+      <string xsi:nil="true" />
+      <string> Dry Riverbed</string>
+    </exitHeadings>
+    <placeHash>1006115156</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1042147650</int>
+      <int>0</int>
+      <int>1954578854</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Dry Riverbed</heading>
+    <description>A dry riverbed half hidden by dust twists from the north to the westwidening into a valley between two steep precipices. The bleak red andyellow sandscape is interrupted to the north by a mirage of green thatshimmers in and out of view.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA fly is buzzing around here somewhere.</string>
+      <string>A scaly brown and yellow lizard sits here, fading into the clay around it.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Watery Oasis</string>
+      <string> The Sea of Sand</string>
+      <string xsi:nil="true" />
+      <string> Dry Valley</string>
+    </exitHeadings>
+    <placeHash>1954578854</placeHash>
+    <connectedPlaceHashes>
+      <int>-1639838607</int>
+      <int>1006115156</int>
+      <int>0</int>
+      <int>641940446</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Dry Valley</heading>
+    <description>Black algae stains the southern precipice marking that at some time in thepast water flowed from the mountains beyond to carve the now dry valley. Tothe west lies a sandy wasteland while to the east the valley continues.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Dry Riverbed</string>
+      <string xsi:nil="true" />
+      <string> Scoured Ridges</string>
+    </exitHeadings>
+    <placeHash>641940446</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1954578854</int>
+      <int>0</int>
+      <int>-1007975647</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Scoured Ridges</heading>
+    <description>Twisters and eddies of sand scour the cliffs that bar travel to the westand south creating yet more sand and slowly extending the desert. To theeast a channel seems to have been dug between two crags of rock.</description>
+    <interactables>
+      <string>&#x1B;[32mThe corpse of Seb is lying here.</string>
+      <string>&#x1B;[33mA gara lizard is here, fighting a drooling trolloc.</string>
+      <string>A drooling trolloc is here, fighting a gara lizard.</string>
+      <string>A spider is building its web here.</string>
+      <string>A spider is building its web here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Sand and More Sand</string>
+      <string> Dry Valley</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1007975647</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>641940446</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>5</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Watery Oasis</heading>
+    <description>Hidden within a depression a cluster of verurous palm trees surround acrystal clear pool of water. Glistening as if in a mirage the lush flora isat odds with the surrounding desert. The ridges to the east and north aretoo steep to pass but the one to the west could be traversed with someeffort. A dry riverbed, perhaps once the source of this precious source oflife, stretches into the dunes to the south. Polished to a sheen by theshifting sands, a plaque and a sign lie nearby.</description>
+    <interactables>
+      <string>&#x1B;[32mA shallow pool of water has collected on the ground.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Dry Riverbed</string>
+      <string> Patchy Trail</string>
+    </exitHeadings>
+    <placeHash>-1639838607</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>1954578854</int>
+      <int>-1949224756</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Patchy Trail</heading>
+    <description>Impassable cliffs to the south shadow the trail as it runs up the easternridge though what it might lead to is hidden from view. To the west theland appears more sandy than to the north where the footing seems firmer.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA disease-ridden elk with blackened antlers stands before you.</string>
+      <string>A disease-ridden elk with blackened antlers stands before you.</string>
+      <string>A fly is buzzing around here somewhere.</string>
+      <string>A disease-ridden elk with blackened antlers stands before you.</string>
+      <string>A black stallion prances about.</string>
+      <string>A black stallion prances about.</string>
+      <string>A black stallion prances about.</string>
+      <string>A black stallion prances about.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Rocky Sands</string>
+      <string> A Watery Oasis</string>
+      <string xsi:nil="true" />
+      <string> Sand and More Sand</string>
+    </exitHeadings>
+    <placeHash>-1949224756</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1639838607</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Mixing Sands</heading>
+    <description>Yellow sands spill into this large depression in the desert, with the brownfrom the south and more orange from the north the land marbles the desert'sshades. Along the ridges of the great bowl wind has blown away sand to baresmooth stones. To the east a huge sand dune dominates the horizon.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA dun snake is here, hissing sharply.</string>
+      <string>A fly is buzzing around here somewhere.</string>
+      <string>A gnarled tree, twisted by the burning sun, writhes in agony.</string>
+      <string>A gnarled tree, twisted by the burning sun, writhes in agony.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Dry Sands</string>
+      <string> Base of a Huge Dune</string>
+      <string> The Sea of Sand</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-252483542</placeHash>
+    <connectedPlaceHashes>
+      <int>594779694</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Before the Northern Gate</heading>
+    <description>The northern gate of an ancient city stand to the south. Large iron doorshave been painted in red, while black studs hold the heavy metal together.The sigil of Artur Hawking has been carved into the limestone in the archabove the gate. A gravelled road continue into the plains to the north,where hot air flickers into the occasional mirage. A freshly painted signhas been erected.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA black snake is here, lying on a rock.</string>
+      <string>A white heron is visible flying high in the sky.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A black snake is here, lying on a rock.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>A lanky Seanchan guard surveys traffic at the gate.</string>
+      <string>A lanky Seanchan guard surveys traffic at the gate.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Along an Ancient Road</string>
+      <string> Near the City Walls</string>
+      <string> The North Gate</string>
+      <string> Outside the City Walls</string>
+    </exitHeadings>
+    <placeHash>923822820</placeHash>
+    <connectedPlaceHashes>
+      <int>-624605044</int>
+      <int>-341388588</int>
+      <int>-1738387218</int>
+      <int>-1126954063</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Along an Ancient Road</heading>
+    <description>The road makes a last turn before it reaches an ancient city to the south.To the east the path continues towards the unknown, making a detour aroundsome ruins before turning north. The ground is covered with sandy, redearth. The latest rainfall has created deep scars across the road, but theworst of them have already been filled with fresh sand by whoever it isthat looks after this piece of the path.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Cherry Trees in the Shade of the Menhir</string>
+      <string> Road Through the Red Earth</string>
+      <string> Before the Northern Gate</string>
+      <string> Straws in the Warm Breeze</string>
+    </exitHeadings>
+    <placeHash>-624605044</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1947221603</int>
+      <int>923822820</int>
+      <int>-636568123</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Cherry Trees in the Shade of the Menhir</heading>
+    <description>Slender cherry trees elegantly stretch their branches towards the sky andto the sides, fondly embracing every ray of the sun. However, once a daythe trees fall under the shade of the giant menhir to the east, temporarilychilling the air under their boughs. A couple of round pillars stick upabove the canopy to the north, marking an old ruin. The red sands of themain road can be seen to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Among the Ruins</string>
+      <string xsi:nil="true" />
+      <string> Along an Ancient Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>908586756</placeHash>
+    <connectedPlaceHashes>
+      <int>-401555013</int>
+      <int>0</int>
+      <int>-624605044</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Among the Ruins</heading>
+    <description>Green grass grows in what was once the courtyard of a large building. Acouple of pillars stand among bushes and large cherry trees, no longersupporting anything but their own weight. A carpet of vines almost concealthe ruins of a stone wall with an arched window. Only the slight lumping ofthe lawn hints that this area was once covered by cobble stones.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA fat turkey waddles about here.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>A fairly large and strange looking bird pokes about.</string>
+      <string>With lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>A long-billed crane is here flying around.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A wild goat clambers over the rocks glaring at everything.</string>
+      <string>An ancient, gnarled tree looms over you.</string>
+      <string>An ancient, gnarled tree looms over you.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Inside the Overgrown Ruins</string>
+      <string> Before the Menhir</string>
+      <string> Cherry Trees in the Shade of the Menhir</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-401555013</placeHash>
+    <connectedPlaceHashes>
+      <int>-26346871</int>
+      <int>0</int>
+      <int>908586756</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Through the Red Earth</heading>
+    <description>There is a faint smell of wet mud and iron from the road, no doubt a resultof the red earth that covers it. A tall menhir blocks passage to the north,its apex jagged and blackened. The city walls of an ancient city seem tosway in the waves of hot air to the south. The road continues to the eastand west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA wild goose struts and flaps its wings, angrily honking at your intrusion.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A wild goat clambers over the rocks glaring at everything.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Road Past the Rhododendron</string>
+      <string> Near the City Walls</string>
+      <string> Along an Ancient Road</string>
+    </exitHeadings>
+    <placeHash>1947221603</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1685113919</int>
+      <int>0</int>
+      <int>-624605044</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Near the City Walls</heading>
+    <description>A ditch has been made along the city walls, but it's not deep enough to bea moat. Gargoyle-like creatures stand high up on the wall, their mouthsworking as drainpipes. This leads to the conclusion that the ditch is thereto lead away water during the tropical storms that often hit this area. Thesounds of the city come and fade with each breath of wind, but most of thetime they drown in the buzzing of insects and chirping of crickets.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA young and strong buck is here, munching some grass.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Through the Red Earth</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Before the Northern Gate</string>
+    </exitHeadings>
+    <placeHash>-341388588</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>923822820</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Outside the City Walls</heading>
+    <description>The city walls of an ancient city stand to the south. The limestone iscertainly thick and solid enough to withstand a siege, though the barriercurrently seems to serve a more ornamental purpose. Carved into the stoneare soldiers and exotics of the Seanchan armies - their traits caricated tolook particularly fearsome.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk with massive antlers eyes you with curiosity.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Straws in the Warm Breeze</string>
+      <string> Before the Northern Gate</string>
+      <string xsi:nil="true" />
+      <string> Along the City Walls</string>
+    </exitHeadings>
+    <placeHash>-1126954063</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>923822820</int>
+      <int>0</int>
+      <int>460138322</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Along the City Walls</heading>
+    <description>The buzz of flies and crickets hang lazily in the hot air, the soundsechoing against the solid stone wall to the south. Dry, yellow straws ofgrass stick up among round, smooth, pale rocks. The clucks and splashes ofa river can be heard from the west. Far to the east the contours of aguardhouse can be seen, marking an ancient city's northern gate.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> By the Discarded Stone Blocks</string>
+      <string> Outside the City Walls</string>
+      <string xsi:nil="true" />
+      <string> Rippling Waters by the Ford</string>
+    </exitHeadings>
+    <placeHash>460138322</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1126954063</int>
+      <int>0</int>
+      <int>1331337186</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Rippling Waters by the Ford</heading>
+    <description>The river expands slightly to the sides as it is forced across a belt ofrough gravel. At the same time the waters become shallow, making this anexcellent spot to wade to the other side. The stones in the river bed areround and smooth, their shapes giving life to a myriad of ripples on thesurface above. The creek continues into the plains to the north, and leadstowards an ancient city to the south.</description>
+    <interactables>
+      <string>&#x1B;[32mThe waters of a stream chatter as they run over the streambed here.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+      <string> The day has begun.</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Along the City Walls</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1331337186</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>460138322</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Straws in the Warm Breeze</heading>
+    <description>Hot air shivers above the ground, only occasionally disturbed by a faintbreeze. Vegetation is sparse, consisting of a couple of dry prickly bushesand tall strands of yellow grass that sway gently with every breath ofwind. Hushed swishes spread through the area as the straws stroke againsteach other. Now and then an insect buzzes lazily past.</description>
+    <interactables>
+      <string>&#x1B;[32mTiny yellow flowers are growing upon stalks here.</string>
+      <string>&#x1B;[33mA wild goose is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Along an Ancient Road</string>
+      <string> Outside the City Walls</string>
+      <string> By the Discarded Stone Blocks</string>
+    </exitHeadings>
+    <placeHash>-636568123</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-624605044</int>
+      <int>0</int>
+      <int>910772218</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Discarded Stone Blocks</heading>
+    <description>A couple of large limestone blocks lie cracked and half buried in thegravel. All of them bear the marks of a stonecarver, but none of thefigures are finished. Compared to the skillful work made on the wall to thesouth, the malformed shapes on these rocks are very crude. Far to the eastthe road can be made out by the dust hanging in the air above.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA white heron perches here on one leg.</string>
+      <string>A fat turkey waddles about here.</string>
+      <string>A wild goose is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Straws in the Warm Breeze</string>
+      <string> Along the City Walls</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>910772218</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-636568123</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Past the Rhododendron</heading>
+    <description>Giant colorful bushes line the road, filling the air with a soft, freshscent. Large ball-shaped collections of flowers in white, purple and pinkare surrounded by long, olive green leaves. Among the branches a myriad ofcrickets enjoy the shade, using the saved energy to chirp all the louder.The road continues to the north and west, red earth covering its surface.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>With lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>A black snake is here, lying on a rock.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Ancient Road</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Road Through the Red Earth</string>
+    </exitHeadings>
+    <placeHash>1685113919</placeHash>
+    <connectedPlaceHashes>
+      <int>-975862515</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1947221603</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Ancient Road</heading>
+    <description>Emerald green grass grow on both sides of the road, standing in starkcontrast to the reddish brown soil of the path itself. A couple of lowbushes wear long, pointy needles to protect their fragile leaves fromherbivores - evidently without much success. The road continues to thenorth and south, while a less used track takes off to the east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Turn by the Mire</string>
+      <string> Bumpy Track Near the Fields</string>
+      <string> Road Past the Rhododendron</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-975862515</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1785974487</int>
+      <int>1685113919</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Bumpy Track Near the Fields</heading>
+    <description>The red, clay-like soil has been churned up by hooves and wheels, withoutanyone caring to fix it - as they clearly often do on the main road to thewest. A primitive fence made of prickly bushed stacked and tied togetherstand to the east, marking the boundary of the kaf fields.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Along the Prickly Fence</string>
+      <string> A closed 'pricklyfence'</string>
+      <string xsi:nil="true" />
+      <string> The Ancient Road</string>
+    </exitHeadings>
+    <placeHash>-1785974487</placeHash>
+    <connectedPlaceHashes>
+      <int>1676648779</int>
+      <int>-117626387</int>
+      <int>0</int>
+      <int>-975862515</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Along the Prickly Fence</heading>
+    <description>An impenetrable barrier of thorny shrubs stand to the east, though naturedidn't place them there. Someone has bundled prickly bushes together, andstacked them into a fence. No doubt this is enough to keep larger animalsat bay. There is a sweet aroma of kaf in the air, hinting to what the spikyfence is protecting. The road continues to the north and west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA strange bird is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road by the Lotus Lake</string>
+      <string xsi:nil="true" />
+      <string> Bumpy Track Near the Fields</string>
+      <string> Turn by the Mire</string>
+    </exitHeadings>
+    <placeHash>1676648779</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1785974487</int>
+      <int>-383549605</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Turn by the Mire</heading>
+    <description>A small bog lies to the north, created by the lake beyond. The waters seemto seep into the road too, making it soggy and muddy at this point. Theground is drier to the east, which is probably why the path turns in thatdirection. To the south, the road makes its way towards an ancient city.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Reeds in the Mire</string>
+      <string> Road Along the Prickly Fence</string>
+      <string> The Ancient Road</string>
+      <string> Before the Menhir</string>
+    </exitHeadings>
+    <placeHash>-383549605</placeHash>
+    <connectedPlaceHashes>
+      <int>407094768</int>
+      <int>1676648779</int>
+      <int>0</int>
+      <int>729942660</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Reeds in the Mire</heading>
+    <description>The lake to the north has given this area the slightest of touches, turningit into a squishy mire. Reeds thrive alongside ordinary grass. To thesouth, a road makes a turn to avoid this area. To the north, pinkish whitelotus flowers lie between large, flat water lilies.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A fat turkey waddles about here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Road by the Lotus Lake</string>
+      <string> Turn by the Mire</string>
+      <string> Clearing by the Lake</string>
+    </exitHeadings>
+    <placeHash>407094768</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>535021108</int>
+      <int>-383549605</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Before the Menhir</heading>
+    <description>A large menhir stands to the south, its top jagged and charred as if struckby lightning. The base of the rock is shaped more smoothly, fallingdownwards almost like a piece of cloth. To the west, the ruins of a largebuilding can be seen among shrubs, vines and trees. Through the branches tothe east the main road can be seen.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>With lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Clearing by the Lake</string>
+      <string> Turn by the Mire</string>
+      <string xsi:nil="true" />
+      <string> Among the Ruins</string>
+    </exitHeadings>
+    <placeHash>729942660</placeHash>
+    <connectedPlaceHashes>
+      <int>-1259405073</int>
+      <int>-383549605</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Clearing by the Lake</heading>
+    <description>A large grassy plain lies before the small lake to the northeast. Strawsand growth has been trimmed down almost to the roots by hungry herbivores.A collection of foxgloves is the only plant left alone, no doubt because ofits poisonous nature. A crumbling rock wall stands to the west, vinescovering its surface. To the east, a soggy marsh marks the end of the lake.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Bamboo by the Lake</string>
+      <string> Reeds in the Mire</string>
+      <string> Before the Menhir</string>
+      <string> Inside the Overgrown Ruins</string>
+    </exitHeadings>
+    <placeHash>-1259405073</placeHash>
+    <connectedPlaceHashes>
+      <int>1838566085</int>
+      <int>0</int>
+      <int>729942660</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Inside the Overgrown Ruins</heading>
+    <description>Crumbling walls surround a roofless room. The floor is mostly covered bymoss and grass, but here and there pieces of the original mosaics stickout. Some of the tiles wear the slightest hint of color or pattern, butmost have faded to a pale yellow in the sun and rain. A large bird has madeits nest on top of one of the remaining pillars.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mWith lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>A fairly large and strange looking bird pokes about.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Clearing by the Lake</string>
+      <string> Among the Ruins</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-26346871</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-401555013</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road by the Lotus Lake</heading>
+    <description>A small lake lies to the west, its surface black and still. White blushinglotus flowers float among giant water lilies, their petals oddly pure andclean considering the murky depths from whence they came. A couple of frogssit on some of the water lilies, noisily announcing them as privateterritory. The road continues to the south and north onto a wooden bridge.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA wild goose is here flying around.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> On the Wooden Bridge</string>
+      <string> By the Pile of Kaf Husks</string>
+      <string> Road Along the Prickly Fence</string>
+      <string> Reeds in the Mire</string>
+    </exitHeadings>
+    <placeHash>535021108</placeHash>
+    <connectedPlaceHashes>
+      <int>-410221626</int>
+      <int>0</int>
+      <int>0</int>
+      <int>407094768</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-5</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Pile of Kaf Husks</heading>
+    <description>The farmer owning the kaf field to the south obviously found no use for thehusks that cover the kaf bean. The hollow capsules lie in a rotting heap,attracting swarms of buzzing insects. A thorny fence stands to the south,keeping larger animals from entering the fields.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Past the Acacia Tree</string>
+      <string xsi:nil="true" />
+      <string> A closed 'thornyfence'</string>
+      <string> Road by the Lotus Lake</string>
+    </exitHeadings>
+    <placeHash>695190651</placeHash>
+    <connectedPlaceHashes>
+      <int>956828062</int>
+      <int>0</int>
+      <int>0</int>
+      <int>535021108</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Kaf Fields</heading>
+    <description>Rows of round bushes stand planted in the dusty, red soil. The plants areas tall as a man, and have pale yellow stems. Among the long, oval leavesthe branches are covered with small berries in colors ranging from green tobrownish red. The kaf fields continue to the east and north, while aprimitive fence made of prickly bushes bunched together stand to the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA lopar pup watches everything with curious eyes.</string>
+      <string>A plump pheasant pecks at the ground.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Kaf Fields</string>
+      <string> Shade Among the Kaf Plants</string>
+      <string xsi:nil="true" />
+      <string> Bumpy Track Near the Fields</string>
+    </exitHeadings>
+    <placeHash>-117626387</placeHash>
+    <connectedPlaceHashes>
+      <int>-548634834</int>
+      <int>1863514512</int>
+      <int>0</int>
+      <int>-1785974487</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Kaf Fields</heading>
+    <description>The aromatic smell of kaf lies lazily in the air, awakening the senses andinvigorating the spirit. The berries carrying the kaf beans grow closelytogether on the branches of tall, leafed bushes. Red, dusty soil covers theground around the roots of the plants. Pointy needles stick out of thefence to the north, defending the area from the ravages of larger animals.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA plump pheasant is here flying around.</string>
+      <string>A plump pheasant is here flying around.</string>
+      <string>A plump pheasant is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A closed 'thornyfence'</string>
+      <string> Sun Baked Kaf Beans</string>
+      <string> The Kaf Fields</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-548634834</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1135576824</int>
+      <int>-117626387</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Sun Baked Kaf Beans</heading>
+    <description>Straw mats cover the ground, and on them lie a thin layer of kaf beans. Thepods have had their fruity husk removed, leaving only the brownish bean.Sun bakes the beans every day, extracting all moisture. A basket stands tothe side, full of beans that have had their dose of sunbathing.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA plump pheasant is visible flying high in the sky.</string>
+      <string>A lopar pup watches everything with curious eyes.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Shade Among the Kaf Plants</string>
+      <string> The Kaf Fields</string>
+    </exitHeadings>
+    <placeHash>1135576824</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-548634834</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Shade Among the Kaf Plants</heading>
+    <description>The shade from the kaf bushes provides a pleasantly cool area between therows. Tracks of fowls and small mammals crisscrossing the red dust showthat the refuge from the sun is well appreciated by many. Curiously, noneof the visitors seem to have touched the berries on the bushes at all.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA dark-skinned man is here earning his living.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Sun Baked Kaf Beans</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> The Kaf Fields</string>
+    </exitHeadings>
+    <placeHash>1863514512</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-117626387</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Past the Acacia Tree</heading>
+    <description>A tall tree stands to the north, its wide canopy high above the ground togive its leaves a chance to get away from eager herbivores. As an extraprecaution, the branches wear long, spiky thorns, protecting the fragileleaves among them. The hard-packed red earth that the road consists ofcontinues to the east and west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA lithe woman flashes you a smile from the shadows.</string>
+      <string>A white heron is here flying around.</string>
+      <string>A long-billed crane is here flying around.</string>
+      <string>An ancient, gnarled tree looms over you.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Cracked Earth on the Road</string>
+      <string> By the Pile of Kaf Husks</string>
+      <string> On the Wooden Bridge</string>
+    </exitHeadings>
+    <placeHash>956828062</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>695190651</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> On the Wooden Bridge</heading>
+    <description>A wooden walkway has been erected to let a small stream pass underneath.Stout wooden poles have been forced into the soggy soil, firmly holding theplanks in place. A scenic lake lies to the west, quiet and dark with lotusflowers shining from its surface. To the east, the road continues into adrier part of the savannah. The path to the south leads to civilization.</description>
+    <interactables>
+      <string>&#x1B;[32mA small stream trickles up from between the cracks.</string>
+      <string>&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Across the Stepping Stones</string>
+      <string> Road Past the Acacia Tree</string>
+      <string> Road by the Lotus Lake</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-410221626</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>535021108</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Bamboo by the Lake</heading>
+    <description>Tall, thin tubes stand by the waters edge, horizontal stripes dividing thestems into sections. A flurry of leaves shoot off the trunks in everydirection. A couple of well-chewed bamboo rods lie on the ground along withsome branches that have carefully been cleaned of their leaves.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk with massive antlers eyes you with curiosity.</string>
+      <string>A fat turkey waddles about here.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Below the Looming Peaks</string>
+      <string> By the Lotus Lake</string>
+      <string> Clearing by the Lake</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1838566085</placeHash>
+    <connectedPlaceHashes>
+      <int>-436005353</int>
+      <int>1186368991</int>
+      <int>-1259405073</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Lotus Lake</heading>
+    <description>The pure petals of lotus flowers stand in stark contrast to the murkywaters they float on. A couple of spotted red and white carps lurk justbeneath the surface, occasionally spitting a glob of water in an attempt tohit the insects flying above them. Slimy reeds stand by the waters edge.</description>
+    <interactables>
+      <string>&#x1B;[32mA muddy pond is here, dark waters broken by an occasional bubble.</string>
+      <string>&#x1B;[33mWith lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>A strange bird is here flying around.</string>
+      <string>A wild goat clambers over the rocks glaring at everything.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Field of Poppies</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Bamboo by the Lake</string>
+    </exitHeadings>
+    <placeHash>1186368991</placeHash>
+    <connectedPlaceHashes>
+      <int>-1648036738</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1838566085</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Field of Poppies</heading>
+    <description>Red poppies with a slightly purple hue spread their fluffy petals to bathein the sun. Pale green buds stand among the grown flowers, waiting fortheir turn to bloom. Bees and insects fly to and from, hurriedly collectingall the nectar they can. A placid lake lies to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Wall of Honeysuckles</string>
+      <string> Across the Stepping Stones</string>
+      <string> By the Lotus Lake</string>
+      <string> Below the Looming Peaks</string>
+    </exitHeadings>
+    <placeHash>-1648036738</placeHash>
+    <connectedPlaceHashes>
+      <int>-248668728</int>
+      <int>1674043208</int>
+      <int>1186368991</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> Across the Stepping Stones</heading>
+    <description>A collection of large flat stones has carefully been laid down in theshallow waters, creating a passage onto dry land to the north and east. Awooden walkway lies to the south, marking the passage of the road.  A largeacacia tree blocks passage to the east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A white heron is here flying around.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>With lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>A lithe woman flashes you a smile from the shadows.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Toadstools and Penny Buns</string>
+      <string xsi:nil="true" />
+      <string> On the Wooden Bridge</string>
+      <string> The Field of Poppies</string>
+    </exitHeadings>
+    <placeHash>1674043208</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-1648036738</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> Below the Looming Peaks</heading>
+    <description>A mountain wall suddenly rises out of the flat ground to the west, creatingan abrupt border between the plains and a mountain range. Snow can be seenon some of the peaks above, a fact that speaks of the height the mountain.A waterfall glitters high above, sending cold waters in a stream thatfinally ends up in the lake to the southeast.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA scruffy goat is tethered here, grazing.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> The Field of Poppies</string>
+      <string> Bamboo by the Lake</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-436005353</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>1838566085</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Wall of Honeysuckles</heading>
+    <description>The mountain wall to the north is covered in vines and honeysuckle flowers.The scent of the tube-like pink and white blossoms lies heavy in the air.Orange and black winged monarch butterflies flutter above the leaves,collecting nectar. A field of poppies stands to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA long-billed crane is visible flying high in the sky.</string>
+      <string>A strange bird is here flying around.</string>
+      <string>A white heron is visible flying high in the sky.</string>
+      <string>A scruffy goat is tethered here, grazing.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Toadstools and Penny Buns</string>
+      <string> The Field of Poppies</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-248668728</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1671777842</int>
+      <int>-1648036738</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-8</gridRefY>
+  </Place>
+  <Place>
+    <heading> Toadstools and Penny Buns</heading>
+    <description>Fuzzy vines hang down from the mountainside to the north, leaving this areain relative shade. A cluster of toadstools sprout from emerald green moss,bright red hats dotted with white specs. A couple of penny bun mushroomstimidly hide under a cover of dead leaves. A slug has greedily chewed itsway into the stem of one of the mushrooms, leaving it on the edge oftoppling over. A sweet scent wafts in from the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Through the Ferns</string>
+      <string> Across the Stepping Stones</string>
+      <string> A Wall of Honeysuckles</string>
+    </exitHeadings>
+    <placeHash>1671777842</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-36133225</int>
+      <int>0</int>
+      <int>-248668728</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>-8</gridRefY>
+  </Place>
+  <Place>
+    <heading> Through the Ferns</heading>
+    <description>Large cinnamon ferns completely conceal the ground with their wide,fang-shaped leaves. Brand new fronds grow from the centre of the plants,their brown tips more often than not nibbled off by some herbivore. Everynow and then some of the ferns shakes, as some small animal hurries pastbelow the leaves - careless of predators due to the good cover.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Below the Pile of Earth</string>
+      <string> Bend in the Road</string>
+      <string xsi:nil="true" />
+      <string> Toadstools and Penny Buns</string>
+    </exitHeadings>
+    <placeHash>-36133225</placeHash>
+    <connectedPlaceHashes>
+      <int>1719511022</int>
+      <int>365630578</int>
+      <int>0</int>
+      <int>1671777842</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>-8</gridRefY>
+  </Place>
+  <Place>
+    <heading> Bend in the Road</heading>
+    <description>The prints of humans and carriages following the road are mixed with thetracks of wild animals crossing the road. Fat flies eagerly tend to a pileof dung recently left behind by a cow or buffalo. Grassy plains sway allthe way to the horizon, but what seems to be human constructs can bespotted far to the east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A long-billed crane is here flying around.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> By the Pile of Lumber</string>
+      <string> Junction by the Imperial Mine</string>
+      <string> Road Through the Plains</string>
+      <string> Through the Ferns</string>
+    </exitHeadings>
+    <placeHash>365630578</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-2125640178</int>
+      <int>-36133225</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>-8</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Through the Plains</heading>
+    <description>Flat plains of yellowish green grass stretch in every direction. While theweather here is clear and warm, a number of local thunderstorms are activein the distance. Flashes of lightning rip the sky soundlessly far away,followed by the faintest rumbling of thunder some twenty seconds later.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Bend in the Road</string>
+      <string> Baked Red Earth</string>
+      <string> Cracked Earth on the Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-2125640178</placeHash>
+    <connectedPlaceHashes>
+      <int>365630578</int>
+      <int>0</int>
+      <int>1499702358</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> Cracked Earth on the Road</heading>
+    <description>Hot air hangs shivering above the ground, creating distorted images of thesurroundings. The acacia tree to the north west seems to be the onlyprovider of shade nearby - grassy plains stretch to the north and east. Thered earth on the road has cracked up into dry cakes, occasionally lettingthe breeze peel dust of its surface. The red powder covers every leaf andstrand of grass in the area.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mWith lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Through the Plains</string>
+      <string> The Dry Plains</string>
+      <string xsi:nil="true" />
+      <string> Road Past the Acacia Tree</string>
+    </exitHeadings>
+    <placeHash>1499702358</placeHash>
+    <connectedPlaceHashes>
+      <int>-2125640178</int>
+      <int>202177288</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Dry Plains</heading>
+    <description>Strands of grass in green and yellow stand side by side, patiently waitingfor the next rainfall to revive them. The ground is riddled with small,earthy holes, no doubt the work of gophers or moles. One of the openingsbear scars of an attempted break-in. Earth lies scattered in everydirection, and the hole has been widened to allow the snout of some biggeranimal to get in.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Baked Red Earth</string>
+      <string> By the Ruined Termite Mound</string>
+      <string xsi:nil="true" />
+      <string> Cracked Earth on the Road</string>
+    </exitHeadings>
+    <placeHash>202177288</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>894996087</int>
+      <int>0</int>
+      <int>1499702358</int>
+    </connectedPlaceHashes>
+    <gridRefX>-6</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Ruined Termite Mound</heading>
+    <description>The remains of what was once a tall termite mounds lies broken and crushedin a crater. An anteater couldn't have caused such destruction, althoughthe paw prints in the sand hint that many of them have visited to make themost of the situation. A couple of walls bear marks of repairs, but itseems whoever started them figured it would be easier to move.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA white heron is visible flying high in the sky.</string>
+      <string>An enormous gray-skinned beast with ivory tusks blows a shrill cry.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Pale Tree Trunk</string>
+      <string> The Red Termite Mounds</string>
+      <string xsi:nil="true" />
+      <string> The Dry Plains</string>
+    </exitHeadings>
+    <placeHash>894996087</placeHash>
+    <connectedPlaceHashes>
+      <int>939455639</int>
+      <int>-466205182</int>
+      <int>0</int>
+      <int>202177288</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Red Termite Mounds</heading>
+    <description>Termites have laboriously shaped the red earth into tall, ridged towers.The size of the mounds is enormous, particularly considering the size oftheir architects. One of the mounds has recently been ravaged by ananteater, judging by the gaping hole in the side of one of the shafts.Repairs are already underway though, as hundreds of termites swarm alongthe edges of the hole - each of them adding a tiny glob of red earth.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA small insect is here feeding on some wood.</string>
+      <string>A small insect is here feeding on some wood.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> By the Termite Towers</string>
+      <string> The Wild Plains</string>
+      <string xsi:nil="true" />
+      <string> By the Ruined Termite Mound</string>
+    </exitHeadings>
+    <placeHash>-466205182</placeHash>
+    <connectedPlaceHashes>
+      <int>-1501987704</int>
+      <int>83022828</int>
+      <int>0</int>
+      <int>894996087</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Wild Plains</heading>
+    <description>Grassy plains stretch for as long as the eye can see, untouched by the handof civilization. Birds of prey circle on warm updrafts above, tirelesslyscouting for an easy meal. Dust devils appear as fast as they dissolve,leaving behind a thin layer of reddish grit.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Sprawling Savannah</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> The Red Termite Mounds</string>
+    </exitHeadings>
+    <placeHash>83022828</placeHash>
+    <connectedPlaceHashes>
+      <int>-52167679</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-466205182</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-6</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Sprawling Savannah</heading>
+    <description>Heat waves dance over the grassy savannah, distorting the view to thesurroundings. A couple of crickets chirp among the bushes, but most of themsave their energy for the cooler air of dusk. Between two sharp rocks liesthe transparent skin of a snake. The owner is no doubt long gone, and in askin size more comfortable to it.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> The Wild Plains</string>
+      <string> By the Termite Towers</string>
+    </exitHeadings>
+    <placeHash>-52167679</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>83022828</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Termite Towers</heading>
+    <description>Large shafts of ridged, red earth reach for the sky, standing as tall asthe trees in the distance. The only sign of the architects is the steadystream of termite workers that run to and from the mound, bringing in freshsupplies. The air above the towers shiver as it moves, being constantlyreplaced by cooler air rising through the shaft.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA small insect is here feeding on some wood.</string>
+      <string>A small insect is here feeding on some wood.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Dandelions in the Dirt</string>
+      <string> The Sprawling Savannah</string>
+      <string> The Red Termite Mounds</string>
+      <string> The Pale Tree Trunk</string>
+    </exitHeadings>
+    <placeHash>-1501987704</placeHash>
+    <connectedPlaceHashes>
+      <int>102066368</int>
+      <int>0</int>
+      <int>-466205182</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Pale Tree Trunk</heading>
+    <description>The dry and brittle trunk of a tree lays here, moisture and life long gonefrom its wood. Its bark has disappeared, leaving only the pale whitecentre. The surface is covered with hundreds of small curls and shallowholes, but the insects who made them are long gone.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> By the Entrance to the Imperial Mine</string>
+      <string> By the Termite Towers</string>
+      <string> By the Ruined Termite Mound</string>
+      <string> Baked Red Earth</string>
+    </exitHeadings>
+    <placeHash>939455639</placeHash>
+    <connectedPlaceHashes>
+      <int>-1624161178</int>
+      <int>0</int>
+      <int>894996087</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-7</gridRefY>
+  </Place>
+  <Place>
+    <heading> Baked Red Earth</heading>
+    <description>Patches of red earth emerge from the grass and bushes. During rainfalls thepatches doubtlessly hold tiny pools of water - a most welcome relief on theplains. At the moment the water has dried away completely, leavinghard-packed, cracked clay. The road to the west looks much the same.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A gopher pokes his head up, sniffing the air warily.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Junction by the Imperial Mine</string>
+      <string> The Pale Tree Trunk</string>
+      <string> The Dry Plains</string>
+      <string> Road Through the Plains</string>
+    </exitHeadings>
+    <placeHash>849617295</placeHash>
+    <connectedPlaceHashes>
+      <int>559072349</int>
+      <int>0</int>
+      <int>202177288</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Junction by the Imperial Mine</heading>
+    <description>The main road continues to the north and west, stretching through theshimmering hea. Another road branches off to the east, leading towards anodd-looking shack and a group of banners. Grassy plains lie in every otherdirection.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Past the Mine</string>
+      <string> By the Entrance to the Imperial Mine</string>
+      <string> Baked Red Earth</string>
+      <string> Bend in the Road</string>
+    </exitHeadings>
+    <placeHash>559072349</placeHash>
+    <connectedPlaceHashes>
+      <int>-154957270</int>
+      <int>0</int>
+      <int>849617295</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Dandelions in the Dirt</heading>
+    <description>Many-rayed yellow flower heads sprout boldly among deeply notched, fuzzyleaves. Some of the flowers have transformed into balls of white, fluffyseeds. At each breath of wind, a myriad of hairy particles whirl into theair, ready to test their luck in an area further away. Some of the podshaven't gotten far though. The soggy red earth around the flowers almostlooks furry from the carpet of fluffy seeds stuck onto it.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Path Along the Mine Roof</string>
+      <string xsi:nil="true" />
+      <string> By the Termite Towers</string>
+      <string> By the Entrance to the Imperial Mine</string>
+    </exitHeadings>
+    <placeHash>102066368</placeHash>
+    <connectedPlaceHashes>
+      <int>-917612067</int>
+      <int>0</int>
+      <int>-1501987704</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-8</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Entrance to the Imperial Mine</heading>
+    <description>Dusty banners flap in the breeze, marking the entrance to a mine. A saggingtool-shack stand to the side, covered with the rusty-red grit of the nativesoil. Solid, wooden beams hold up the roof of the mine, and a gate of steelbars squeaks on its hinges as the winds tear at it.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mPrancing about on dainty feet, a palomino mare stands here.</string>
+      <string>Prancing about on dainty feet, a palomino mare stands here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Dandelions in the Dirt</string>
+      <string> The Pale Tree Trunk</string>
+      <string> Junction by the Imperial Mine</string>
+    </exitHeadings>
+    <placeHash>-1624161178</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>939455639</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-8</gridRefY>
+  </Place>
+  <Place>
+    <heading> Path Along the Mine Roof</heading>
+    <description>A simplistic wooden fence has been erected to the west, keeping people andanimals from walking across some of the more fragile parts of the minesroof. A weathered sign squeaks lazily as it sways in its harness of steelwire. A muddy path follows the fence to the north and south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> By the Rusty Wheelbarrow</string>
+      <string xsi:nil="true" />
+      <string> Dandelions in the Dirt</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-917612067</placeHash>
+    <connectedPlaceHashes>
+      <int>-1134876847</int>
+      <int>0</int>
+      <int>102066368</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-9</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Rusty Wheelbarrow</heading>
+    <description>Half buried in the wet, red clay, a crippled wheelbarrow lies on its side.Its front wheel and supports have rusted into thin flakes and the woodencontainer is rotten and half broken. The handles have sunk completely intothe earth, and the soil around the wreck sags slightly, making adepression. A huge baobab tree stands to the north west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Past the Ancient Baobab Tree</string>
+      <string xsi:nil="true" />
+      <string> Path Along the Mine Roof</string>
+      <string> Corn Flowers on Top of the Mine</string>
+    </exitHeadings>
+    <placeHash>-1134876847</placeHash>
+    <connectedPlaceHashes>
+      <int>1042186021</int>
+      <int>0</int>
+      <int>-917612067</int>
+      <int>995001692</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-10</gridRefY>
+  </Place>
+  <Place>
+    <heading> Corn Flowers on Top of the Mine</heading>
+    <description>Blue cornflowers grow from the sandy soil on top of the mine, crinklypetals standing in a tight sphere. Bumblebees whirr through the air,occasionally landing on the blossoms - the weight of the insects bendingthe stems. Planks can be seen below the gravel in some spots, marking theroof of the mine below. A large baobab tree stands to the north.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mWith lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> By the Rusty Wheelbarrow</string>
+      <string xsi:nil="true" />
+      <string> Spinifex Bushes by the Road</string>
+    </exitHeadings>
+    <placeHash>995001692</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1134876847</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-10</gridRefY>
+  </Place>
+  <Place>
+    <heading> Past the Ancient Baobab Tree</heading>
+    <description>A majestic baobab tree rules alone on the otherwise grassy plain. The trunkof the tree is as wide as a small house, though it's hard to tell whetherthe stem belongs to one tree or many. Thick branches grow as if separateplants from the top of the trunk, but the base by the roots is one,complete unit. Five fingered leaves hang from the boughs.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA rust-colored bobcat crouches low, ready to pounce.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A white heron is visible flying high in the sky.</string>
+      <string>A scruffy goat is tethered here, grazing.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>An ancient, gnarled tree looms over you.</string>
+      <string>An ancient, gnarled tree looms over you.</string>
+      <string>An ancient, gnarled tree looms over you.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Ochre in the Red Soil</string>
+      <string> By the Witchetty Bush</string>
+      <string> By the Rusty Wheelbarrow</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1042186021</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-160799464</int>
+      <int>-1134876847</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-11</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Witchetty Bush</heading>
+    <description>A large, airy bush with straw-like branches stands here, providing slightshade for a myriad of crickets. The insects make an almost painful amountof noise in their dedicated attempt to attract the other sex. A couple ofthe creatures lie dead below the branches, haven forgotten their otherneeds while chirping. A large baobab tree stands to the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Tufts of Blue Oat Grass</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Past the Ancient Baobab Tree</string>
+    </exitHeadings>
+    <placeHash>-160799464</placeHash>
+    <connectedPlaceHashes>
+      <int>-1815129722</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1042186021</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-11</gridRefY>
+  </Place>
+  <Place>
+    <heading> Tufts of Blue Oat Grass</heading>
+    <description>Stiff, bluish green grass grows in tufts on the rusty red soil. A couple ofmore flexible straws with yellow seeds sway from the center of theclusters. Fine dust and sand floats in the air, glittering as lightreflects on it. A heap of rocks stand out of the grass to the north.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA young and strong buck is here, munching some grass.</string>
+      <string>A strange bird is here flying around.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Stones on the Savannah</string>
+      <string xsi:nil="true" />
+      <string> By the Witchetty Bush</string>
+      <string> Ochre in the Red Soil</string>
+    </exitHeadings>
+    <placeHash>-1815129722</placeHash>
+    <connectedPlaceHashes>
+      <int>1325377033</int>
+      <int>0</int>
+      <int>-160799464</int>
+      <int>679339314</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-12</gridRefY>
+  </Place>
+  <Place>
+    <heading> Ochre in the Red Soil</heading>
+    <description>Earth has been shaved away off the hill to the west, revealing brilliantyellow layers of ochre. The red soil has mixed with the ochre in someareas, creating dashes of orange. A couple of roots reach out of thehillside, their surface already dry and brittle. The baobab tree to thesouth west is no doubt their owner.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA white heron is here flying around.</string>
+      <string>A rust-colored bobcat crouches low, ready to pounce.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Whispering Grass</string>
+      <string> Tufts of Blue Oat Grass</string>
+      <string> Past the Ancient Baobab Tree</string>
+      <string> By the Side Entrance of the Mine</string>
+    </exitHeadings>
+    <placeHash>679339314</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1815129722</int>
+      <int>0</int>
+      <int>2019106588</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-12</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Side Entrance of the Mine</heading>
+    <description>A gaping hole opens up in the red soil, its sides supported by thick, blacklogs. A wooden ladder leads down into the vertical shaft, but the well isto dark to reveal where the steps end. The steps look slippery, coveredwith wet mud. A thin wooden rail follows the edge of the hole, preventingaccidental falls into it.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Bend in the Road</string>
+      <string> Ochre in the Red Soil</string>
+      <string xsi:nil="true" />
+      <string> The Ancient Road</string>
+    </exitHeadings>
+    <placeHash>2019106588</placeHash>
+    <connectedPlaceHashes>
+      <int>-1990278265</int>
+      <int>679339314</int>
+      <int>0</int>
+      <int>670202540</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-12</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Ancient Road</heading>
+    <description>A path to the east leads to a side entrance of a mine to the east. The mainroad, however, continues in a straight north south direction. Heat wavesshiver across the baked earth, but despite this there seems to be a pile ofsnow by the road to the north. A couple of large rocks lie by the side ofthe road, below a crag marking the beginning of a mountain range.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Melting Snow by the Road</string>
+      <string> By the Side Entrance of the Mine</string>
+      <string> Muddy Trail Across the Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>670202540</placeHash>
+    <connectedPlaceHashes>
+      <int>-1397669708</int>
+      <int>2019106588</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-6</gridRefX>
+    <gridRefY>-12</gridRefY>
+  </Place>
+  <Place>
+    <heading> Melting Snow by the Road</heading>
+    <description>Despite the heat, a large lump of icy snow lies here, quickly melting away.Far above in the mountains lies the mother of this cold child, a hugeglacier. The ice must have broken off it and landed here. A flock of birdsenjoy chilly baths in the melting water. The road continues east and south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Bend in the Road</string>
+      <string> The Ancient Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1397669708</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>670202540</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-6</gridRefX>
+    <gridRefY>-13</gridRefY>
+  </Place>
+  <Place>
+    <heading> Bend in the Road</heading>
+    <description>The passage of hundreds of heavy carts and wagons has caused the road tosag under the weight. A shallow trench lies on either side of agrass-covered hump. Here and there, evidence that some drivers have triedto avoid the trenches can be seen, but the tracks always eventually fallback into the depressions. The road continues north and west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA scruffy goat is tethered here, grazing.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road by the Overhang</string>
+      <string> Whispering Grass</string>
+      <string> By the Side Entrance of the Mine</string>
+      <string> Melting Snow by the Road</string>
+    </exitHeadings>
+    <placeHash>-1990278265</placeHash>
+    <connectedPlaceHashes>
+      <int>288335635</int>
+      <int>2010436795</int>
+      <int>2019106588</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-13</gridRefY>
+  </Place>
+  <Place>
+    <heading> Whispering Grass</heading>
+    <description>Hushed whispers seem to spread through the tall grass as wafts of windplayfully dances past. A faint sound usually beginning to the east, theswish rumbles past before loosing its voice somewhere to the west. A roadcan occasionally be glimpsed to the west, as the straws gently sway.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA young and strong buck is here, munching some grass.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Orchids by the Road</string>
+      <string> Stones on the Savannah</string>
+      <string> Ochre in the Red Soil</string>
+      <string> Bend in the Road</string>
+    </exitHeadings>
+    <placeHash>2010436795</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-1990278265</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-13</gridRefY>
+  </Place>
+  <Place>
+    <heading> Stones on the Savannah</heading>
+    <description>A collection of large stones lie in a heap, earth and plants growingthrough every crack between them. Numerous hoof prints lead up to thetopmost boulder, no doubt an excellent spot to scout for predators. Stranges-shaped tracks through the red sands lead into a small, shady cave amongsome of the rocks. A large cactus stands to the east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA long-billed crane is visible flying high in the sky.</string>
+      <string>With lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Through the Plains</string>
+      <string> The Opuntia Cactus</string>
+      <string> Tufts of Blue Oat Grass</string>
+      <string> Whispering Grass</string>
+    </exitHeadings>
+    <placeHash>1325377033</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1004926919</int>
+      <int>-1815129722</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-13</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Past the Mine</heading>
+    <description>A basic fence of wire and wood blocks passage to the east, keeping animalsand people from walking across frail areas of the mine roof. A large earthand gravel deposit lies to the west, no doubt gathered from the dig site.The road tilts slightly downwards to the north, while creating a junctionto the south. Every now and then, the ground trembles slightly.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA lithe woman flashes you a smile from the shadows.</string>
+      <string>An elk with massive antlers eyes you with curiosity.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Spinifex Bushes by the Road</string>
+      <string xsi:nil="true" />
+      <string> Junction by the Imperial Mine</string>
+      <string> By the Pile of Lumber</string>
+    </exitHeadings>
+    <placeHash>-154957270</placeHash>
+    <connectedPlaceHashes>
+      <int>1123646261</int>
+      <int>0</int>
+      <int>559072349</int>
+      <int>-541949862</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Spinifex Bushes by the Road</heading>
+    <description>Chubby, spherical bushes stand in the red soil, their many branches lookinglike dry strands of grass. Dust has been whirled up with the winds, andcover the plants as a thin, orange grit. The road continues to the northand south, passing a large mound of earth to the west. Far to the southeast, a few banners flap in the wind.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>With lovely brown eyes, a baby s'redit frolics here.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Muddy Trail Across the Road</string>
+      <string> Corn Flowers on Top of the Mine</string>
+      <string> Road Past the Mine</string>
+      <string> The Muddy Hollow</string>
+    </exitHeadings>
+    <placeHash>1123646261</placeHash>
+    <connectedPlaceHashes>
+      <int>1898106230</int>
+      <int>0</int>
+      <int>-154957270</int>
+      <int>708533068</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Muddy Trail Across the Road</heading>
+    <description>Although no defined path has been set up to cross the main road, at thispoint it certainly seems that more people have crossed the road thanfollowed it. Mud lies sloshed all over in a straight line from the mineentrance to the east to the deposit heap above to the west. Deep furrows inthe road show where loads of earth has been wheeled past.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA strange bird is visible flying high in the sky.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Ancient Road</string>
+      <string xsi:nil="true" />
+      <string> Spinifex Bushes by the Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1898106230</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>1123646261</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-5</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Muddy Hollow</heading>
+    <description>Earth and gravel from a nearby mine has been piled up to the north and west,creating an artificial hilltop. Water from the soggy soil has seepedthrough the layers and ended up in this hollow, which is constantly filledwith a soupy mud. Despite its sticky and filthy appearance, the mud poolseems to have attracted quite a few animals. Prints from both smaller andlarger animals lead up and down to the pit.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA fairly large and strange looking bird pokes about.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A pig is here, sniffing for some food.</string>
+      <string>A pig is here, sniffing for some food.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Spinifex Bushes by the Road</string>
+      <string> By the Pile of Lumber</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>708533068</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>1123646261</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>-4</gridRefY>
+  </Place>
+  <Place>
+    <heading> By the Pile of Lumber</heading>
+    <description>Large, tar-covered logs lie piled up here, ready to be used in the mines tosupport roof or walls. The smooth, round smell of tar lies thick around thetrunks as the heat burns away any moisture left in the grit. A filthysawhorse and an accordingly filthy saw stands ready by the pile, in caseshorter pieces should be needed.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Muddy Hollow</string>
+      <string> Road Past the Mine</string>
+      <string> Bend in the Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-541949862</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-154957270</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>-3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Below the Pile of Earth</heading>
+    <description>A large heap of red earth and gravel has been piled up to the north. Someof the muddy clay is still steaming in the sunlight - a clear sign that themound is in active use. The soil on the edges of the heap has been sparedfor new loads of muck, and have attracted a variety of plants and weeds.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn elk with massive antlers eyes you with curiosity.</string>
+      <string>A scruffy goat is tethered here, grazing.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Through the Ferns</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1719511022</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-36133225</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>-9</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road by the Overhang</heading>
+    <description>A rocky overhang sticks out of the mountainside to the north west,protecting the area beneath it from rain. In fact so little water hasreached the spot that no plants or greenery sprout among the jagged rocks.Some charred wood and different animal droppings shows that this is awelcome refuge for both two and four legged caught in bad weather. The roadpasses below the overhang, before turning to the south and east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A rust-colored bobcat crouches low, ready to pounce.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Orchids by the Road</string>
+      <string> Bend in the Road</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>288335635</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>55796769</int>
+      <int>-1990278265</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-7</gridRefX>
+    <gridRefY>-14</gridRefY>
+  </Place>
+  <Place>
+    <heading> Orchids by the Road</heading>
+    <description>A couple of old, rotting tree trunks stand between the road and a cliffwall to the north. Several plants seem to enjoy the decay. Bracket fungimake small terraces above each other, vines greedily snake their way aroundthe stem. Most noteworthy are the white orchids sticking out among theother plants. A sweet fragrance spreads from their pink-lined petals.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA strange bird is visible flying high in the sky.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A scruffy goat is tethered here, grazing.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Road Through the Plains</string>
+      <string> Whispering Grass</string>
+      <string> Road by the Overhang</string>
+    </exitHeadings>
+    <placeHash>55796769</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>515460985</int>
+      <int>0</int>
+      <int>288335635</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-14</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Through the Plains</heading>
+    <description>The fresh smell of earth drying after a downpour of rain lingers in theair, along with the faint scent of wild flowers and grass. The red,clay-like earth that covers the road has dried up enough to not be muddyand sticky, yet soft and spongy enough to leave clear tracks behindtravellers. The road path turns north and east, following a cliff.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA gopher pokes his head up, sniffing the air warily.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>A badger is rummaging about, looking for stuff to eat.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Junction by the Animal Track</string>
+      <string> The Sea of Grass</string>
+      <string> Stones on the Savannah</string>
+      <string> Orchids by the Road</string>
+    </exitHeadings>
+    <placeHash>515460985</placeHash>
+    <connectedPlaceHashes>
+      <int>-1419588484</int>
+      <int>-1713948095</int>
+      <int>0</int>
+      <int>55796769</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-14</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Opuntia Cactus</heading>
+    <description>A shrubbery of opuntia cactuses blocks passage to the east and south.Large, flat, balloon-shaped discs perch one upon another, their surfacecovered with white, pointy needles. Red, fruitlike bulbs with white spotssprout from some of the discs, preparing the way for new growth. Shaggytufts of grass enjoy the protection among the spikes.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> The Sea of Grass</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Stones on the Savannah</string>
+    </exitHeadings>
+    <placeHash>1004926919</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1325377033</int>
+    </connectedPlaceHashes>
+    <gridRefX>-10</gridRefX>
+    <gridRefY>-13</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Sea of Grass</heading>
+    <description>Grass and straws of various kinds fight to get the most out of thesunlight, growing tall and bold. Some of the plants have paid the price fortheir mad race of height, their straws buckled and broken under their ownweight. Purple coneflowers stand more timidly at waist height, trustingthat stretching their petals will provide them the sun they need.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>A fat turkey waddles about here.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Animal Track in the Grass</string>
+      <string> Silk Cocoons Among the Mulberry Leaves</string>
+      <string> The Opuntia Cactus</string>
+      <string> Road Through the Plains</string>
+    </exitHeadings>
+    <placeHash>-1713948095</placeHash>
+    <connectedPlaceHashes>
+      <int>-210656508</int>
+      <int>66303215</int>
+      <int>0</int>
+      <int>515460985</int>
+    </connectedPlaceHashes>
+    <gridRefX>-10</gridRefX>
+    <gridRefY>-14</gridRefY>
+  </Place>
+  <Place>
+    <heading> Silk Cocoons Among the Mulberry Leaves</heading>
+    <description>Row upon row of bushes stand to the east, all of them fresh and welltended. On some of the leaves there are small, egg-like cocoons. Fat,yellow worms work hectically on some of the cocoons, wrapping themselvesup. Lush, grassy plains lie to the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Among the Mulberry Bushes</string>
+      <string> Baskets Among the Bushes</string>
+      <string xsi:nil="true" />
+      <string> The Sea of Grass</string>
+    </exitHeadings>
+    <placeHash>66303215</placeHash>
+    <connectedPlaceHashes>
+      <int>-1274397883</int>
+      <int>637924770</int>
+      <int>0</int>
+      <int>-1713948095</int>
+    </connectedPlaceHashes>
+    <gridRefX>-11</gridRefX>
+    <gridRefY>-14</gridRefY>
+  </Place>
+  <Place>
+    <heading> Baskets Among the Bushes</heading>
+    <description>Wicker baskets stand here and there among the bushes, most of them almostfull of small white cocoons. The mulberry bushes closest to the basketsseem to have all their cocoons harvested, as only white and yellowing wormsremain on the plant. The sound of boiling water comes from the shed to thesouth. More rows of mulberry bushes stand to the west and north.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>A seanchan boy is running around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Rows of White Mulberry</string>
+      <string xsi:nil="true" />
+      <string> In the Silk Preparation Shed</string>
+      <string> Silk Cocoons Among the Mulberry Leaves</string>
+    </exitHeadings>
+    <placeHash>637924770</placeHash>
+    <connectedPlaceHashes>
+      <int>129895193</int>
+      <int>0</int>
+      <int>-1655034738</int>
+      <int>66303215</int>
+    </connectedPlaceHashes>
+    <gridRefX>-12</gridRefX>
+    <gridRefY>-14</gridRefY>
+  </Place>
+  <Place>
+    <heading> In the Silk Preparation Shed</heading>
+    <description>Heat emanates from the embers in a carefully tended fireplace. Its warmthis used to heat an oven and a large cauldron of water. Cocoons fresh offthe leaves have been laid into the oven, killing the insect without harmingthe silk it's made. The cocoons dropped into the boiling water haveunwound, creating a soup of silk threads. At the end of the bench stands awooden reel, fine raw silk thread of great strength wound up around it. Abasket full of thick reels stand in the corner, ready to be carried to thecity for further processing.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA woman hums softly as she goes about her duties.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Baskets Among the Bushes</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1655034738</placeHash>
+    <connectedPlaceHashes>
+      <int>637924770</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-12</gridRefX>
+    <gridRefY>-13</gridRefY>
+  </Place>
+  <Place>
+    <heading> Rows of White Mulberry</heading>
+    <description>Thin, glossy, light green leaves of various shapes cover the mulberrybushes. Some are pointed while others are glove-shaped. Some of the foliagecarry collections of pin-sized yellow eggs on their rough surface. Long,blackberry-like fruits hang among the branches, some purplish blue - othersalmost black. A couple of tiny white worms eagerly feed off the leaves.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A pale maggot is burrowing through the roots and undergrowth here.</string>
+      <string>A pale maggot is burrowing through the roots and undergrowth here.</string>
+      <string>A pale maggot is burrowing through the roots and undergrowth here.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Baskets Among the Bushes</string>
+      <string> Among the Mulberry Bushes</string>
+    </exitHeadings>
+    <placeHash>129895193</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>637924770</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-12</gridRefX>
+    <gridRefY>-15</gridRefY>
+  </Place>
+  <Place>
+    <heading> Among the Mulberry Bushes</heading>
+    <description>Chubby moths fly lazily through the air, now and then settling on themulberry bushes standing in line. More rows of bushes stand to the east,hinting that some sort of farming is being done. White worms crawl amongthe green pointed leaves, greedily feeding off the greenery.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Rows of White Mulberry</string>
+      <string> Silk Cocoons Among the Mulberry Leaves</string>
+      <string> Animal Track in the Grass</string>
+    </exitHeadings>
+    <placeHash>-1274397883</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>66303215</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-11</gridRefX>
+    <gridRefY>-15</gridRefY>
+  </Place>
+  <Place>
+    <heading> Animal Track in the Grass</heading>
+    <description>Visibility is very poor here, due to the height of the surrounding grass.Despite this, an animal track seems to follow a very straight line in aneast west direction. Though most of the prints in the mud are from paws andhooves, a few come from sturdy boots. Part of the main road can be seen tothe west, while a number of mulberry bushes stand to the east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn antelope blends into the scenery.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Through the Grass</string>
+      <string> Among the Mulberry Bushes</string>
+      <string> The Sea of Grass</string>
+      <string> Junction by the Animal Track</string>
+    </exitHeadings>
+    <placeHash>-210656508</placeHash>
+    <connectedPlaceHashes>
+      <int>-34719988</int>
+      <int>0</int>
+      <int>-1713948095</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-10</gridRefX>
+    <gridRefY>-15</gridRefY>
+  </Place>
+  <Place>
+    <heading> Through the Grass</heading>
+    <description>The straws and grass are thriving in this area, growing as tall as a grownman. This also makes visibility poor, only giving a view to the mountaintops to the west. Abrupt rustles emerge from the undergrowth, as smallerand bigger animals are scared out of their resting places.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA white heron perches here on one leg.</string>
+      <string>A young and strong buck is here, munching some grass.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Animal Track in the Grass</string>
+      <string> Road Through the Tall Grass</string>
+    </exitHeadings>
+    <placeHash>-34719988</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-210656508</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-10</gridRefX>
+    <gridRefY>-16</gridRefY>
+  </Place>
+  <Place>
+    <heading> Junction by the Animal Track</heading>
+    <description>The wall of grass to the east suddenly breaks up, giving way to a narrowanimal path. Far to the east, large mulberry bushes can be glimpsed. Acliff stands tall to the west, creating the lowest part of the mountains.The road continues north and south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA strange bird is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Through the Tall Grass</string>
+      <string> Animal Track in the Grass</string>
+      <string> Road Through the Plains</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1419588484</placeHash>
+    <connectedPlaceHashes>
+      <int>622074715</int>
+      <int>0</int>
+      <int>515460985</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-15</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Through the Tall Grass</heading>
+    <description>Tall, green grass stands on the eastern side of the road, swaying gently inthe wind. A mountain side looms above to the southwest, forcing the pathto make a slight detour. While the road consists mostly of red earth to thesouth, it shifts more towards gravel and rocks to the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA strange bird is here flying around.</string>
+      <string>A rust-colored bobcat crouches low, ready to pounce.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Through the Grass</string>
+      <string> Junction by the Animal Track</string>
+      <string> Road Near the Mountains</string>
+    </exitHeadings>
+    <placeHash>622074715</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1419588484</int>
+      <int>-443093603</int>
+    </connectedPlaceHashes>
+    <gridRefX>-9</gridRefX>
+    <gridRefY>-16</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Near the Mountains</heading>
+    <description>The mountain range rises abruptly to the west, dark rock with white, snowycollars. A chilly breeze follows the pass to the west down themountainside, making this area cooler than the rest of the plains. The roadis blocked up into the pass and east around the foot of a mountain. Atrickle of a stream follows the gutter of the road.</description>
+    <interactables>
+      <string>&#x1B;[32mA small stream trickles up from between the cracks.</string>
+      <string>&#x1B;[33mA cute brown deer eyes you nervously.</string>
+      <string>A cute brown deer eyes you nervously.</string>
+      <string>An antelope blends into the scenery.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Road Through the Tall Grass</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-443093603</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>622074715</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-8</gridRefX>
+    <gridRefY>-16</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Clean, Well-Lighted Place</heading>
+    <description>The front room of a two story house is decorated with simple chairs andtables, most of gleaming wood. Cheerful drapes flutter in the front windowsfacing Comelle Street and a wreath of broomweed hangs against the glass.The scent of herbs hangs in the air. Hanging next to a cupboard filled withjars are a dull gleaming plaque and a sign.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA strange bird is here flying around.</string>
+      <string>The apprentice is here, tending the stores.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Comelle Street</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>842020978</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-2102890286</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Grocer Shop</heading>
+    <description>Bins of dry goods line the walls of this grocer's, with tables displayingfresh produce and fruit down the center. The shop is very clean, withouteven a speck of lint floating through the air. A dull gleaming plaque and asign have been mounted on the back wall.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA grocer stocks some shelves.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Mar Rouis Way</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1225852777</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>902150364</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+</ArrayOfPlace>

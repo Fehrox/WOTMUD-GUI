@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfPlace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Place>
+    <heading>The Eastern Gate</heading>
+    <description>A two story high bronze gate and portcullis is set into the wallsurrounding the city, its sheer size a testament to how quickly troopmovement could occur if the city was threatened. Set above the gate areseveral murder holes for siege defense. Mar Rouis Way runs south to north,and Comelle Street is to the west.</description>
+    <exitHeadings>
+      <string>Mar Rouis Way</string>
+      <string>Outside the Sturdy Gates</string>
+      <string>Mar Rouis Way</string>
+      <string>Comelle Street</string>
+    </exitHeadings>
+    <placeHash>-1715557196</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-224651929</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefZ>0</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA Red Eagle soldier walks by proudly.</string>
+      <string>A man is here.</string>
+      <string>&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>Mar Rouis Way</heading>
+    <description>Very old leatherleaf trees grow on the west side of the street, carefullytended to almost blend into the architecture of the buildings lining thatside of the road. The protective wall of the city looms to the east, with abronze gate set into it a little to the north. To the south is an opengrass area dotted with colorful flowers.</description>
+    <exitHeadings>
+      <string>The Eastern Gate</string>
+      <string xsi:nil="true" />
+      <string>The Southeast City Park</string>
+      <string>The Grocer Shop</string>
+    </exitHeadings>
+    <placeHash>-224651929</placeHash>
+    <connectedPlaceHashes>
+      <int>-1715557196</int>
+      <int>0</int>
+      <int>-1702668834</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefZ>-1</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>The Southeast City Park</heading>
+    <description>A meticulously tended lawn covers the park like a swath of emerald silk,dotted with flowers bursting with fragrance and gem-like hues. A stylizedpond shimmers clear blue in the exact center with artful benches along itsshoreline. It's almost easy to ignore the protective wall around the city,on the east and southern sides of the park.  A BIG SIGN YOU CANNOT POSSIBLY MISS IS HERE.</description>
+    <exitHeadings>
+      <string>Mar Rouis Way</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string>Along Adanza Street</string>
+    </exitHeadings>
+    <placeHash>-1702668834</placeHash>
+    <connectedPlaceHashes>
+      <int>-224651929</int>
+      <int>0</int>
+      <int>0</int>
+      <int>-1128856144</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefZ>-2</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mA soft leather pouch has been discarded here.</string>
+      <string>An oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mAn Illuminator's apprentice walks by quickly.</string>
+      <string>&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>Along Adanza Street</heading>
+    <description>The southernmost road in the city is narrow, with such close quarters thatit's as if the street was an afterthought when the city was built. The wallsurrounding the city looms to the south offering protection againstanything that could be roaming beyond them. To the east is a park, and tothe west the street is a straight line of shops and houses.</description>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string>The Southeast City Park</string>
+      <string xsi:nil="true" />
+      <string>On Adanza Street</string>
+    </exitHeadings>
+    <placeHash>-1128856144</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1702668834</int>
+      <int>0</int>
+      <int>-1472494966</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefZ>-2</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>On Adanza Street</heading>
+    <description>A narrow street on the outskirts of the city, Adanza Street is a smoothroad that has seen decades of travel as people have made their waythroughout the city. An official-looking building to the north has a brassplaque posted next to the door. There is an open park to the east, and tothe west is the small southern gate.</description>
+    <exitHeadings>
+      <string>The Newcomer's Refuge</string>
+      <string>Along Adanza Street</string>
+      <string xsi:nil="true" />
+      <string>The Southern Gate</string>
+    </exitHeadings>
+    <placeHash>-1472494966</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1128856144</int>
+      <int>0</int>
+      <int>-2070079220</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefZ>-2</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA strange bird is here flying around.</string>
+      <string>&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>The Southern Gate</heading>
+    <description>A narrow gate set into the southern wall leads out to the wilds where anarrow road hardly larger than a goat track has a rock-pocked surface. Asmall way to the north is the city square, and Adanza Street runs parallelto the wall surrounding the southern side of the city. Above the gate aremurder holes, perfect for protected attacks against anything laying siegeto the city itself from beyond.</description>
+    <exitHeadings>
+      <string>Emar Dal Way</string>
+      <string>On Adanza Street</string>
+      <string>Near a Gate</string>
+      <string>Outside the Ansaline Gardens Inn</string>
+    </exitHeadings>
+    <placeHash>-2070079220</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1472494966</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefZ>-2</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA Red Eagle soldier walks by proudly.</string>
+      <string>A man is here.</string>
+      <string>&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>Outside the Ansaline Gardens Inn</heading>
+    <description>A squat building of green limestone to the north is the jewel of the entirestreet, its intricate carvings of flowers and trees appearing almostlifelike. Across the way is the wall surrounding the city, and the streetruns east to west in a straight line.</description>
+    <exitHeadings>
+      <string>The Ansaline Gardens Inn</string>
+      <string>The Southern Gate</string>
+      <string xsi:nil="true" />
+      <string>Adanza Street</string>
+    </exitHeadings>
+    <placeHash>388246022</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-2070079220</int>
+      <int>0</int>
+      <int>-904442853</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefZ>0</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33mA black dog is here, wagging its tail.</string>
+      <string>A dust covered coachman stands here, waiting for passengers.</string>
+      <string>A muscular ebony warhorse waits patiently for its master.</string>
+      <string>&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>Adanza Street</heading>
+    <description>A smooth paved street running east to west, Adanza Street is a narrow roadbarely wide enough for two carts to pass by. The city's protective wallstretches parallel to the street on the south side, and the north side ispacked with shops and private homes.</description>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string>Outside the Ansaline Gardens Inn</string>
+      <string xsi:nil="true" />
+      <string>Southwest City Park</string>
+    </exitHeadings>
+    <placeHash>-904442853</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>388246022</int>
+      <int>0</int>
+      <int>-898964334</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefZ>0</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+  <Place>
+    <heading>Southwest City Park</heading>
+    <description>This small plot of land within the city is arid, covered with dry sand anddecorative rocks. A small water feature trickles musically among brilliantcacti and other plants with forbidding, spiny surfaces.</description>
+    <exitHeadings>
+      <string>On Halidar Road</string>
+      <string>Adanza Street</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-898964334</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-904442853</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefZ>0</gridRefZ>
+    <Interactables>
+      <string>&#x1B;[32mAn oil lamp, set in a steel cage, hangs from a high wooden pole.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </Interactables>
+  </Place>
+</ArrayOfPlace>

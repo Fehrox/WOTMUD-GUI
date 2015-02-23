@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfPlace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Place>
+    <heading> Crossing of the Paths</heading>
+    <description>A well-paved road of enormous black stones extends to the east and westwith a small off branch to the north where a thick stairway leads to theupper ward. Southward, in the midst of a courtyard, a small trickle ofwater reverberates through the windy lower ward. The sound of agonizedscreams drifts slowly from the northern staircase, mixing an eerie songwith the scraping iron gates and the trickling water. A faint odor ofrotting flesh and excrement emanates from several scattered piles of halfdigested bone fragments and fully digested prey.</description>
+    <interactables>
+      <string>&#x1B;[32mA revolting well bubbles with the blood of the sacrificed.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Stairwell to the Upper Ward</string>
+      <string> Before the Rock Face</string>
+      <string> At the Courtyard</string>
+      <string> Awning of the Spire</string>
+    </exitHeadings>
+    <placeHash>-1282709101</placeHash>
+    <connectedPlaceHashes>
+      <int>-2040664749</int>
+      <int>1661396769</int>
+      <int>1531367330</int>
+      <int>241024662</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Before the Rock Face</heading>
+    <description>Under the center of the enormous cavern, a wide stone-paved road extends inall directions except north where a mural of terror marks the glory of theDark Lord, paintings of burning houses and cities, of dying soldiers andchildren, of feasting hordes, and of victorious armies swarming out of theblighted lands. The cavern stretches to the south and west, extendingtowards the southern barbican. Slightly to the west, a pathway leads northascending from the base into higher levels of the spire.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Entering the Cavernous Chamber</string>
+      <string> Entering the Lower Ward</string>
+      <string> Crossing of the Paths</string>
+    </exitHeadings>
+    <placeHash>1661396769</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1732009994</int>
+      <int>-1847625192</int>
+      <int>-1282709101</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Entering the Lower Ward</heading>
+    <description>The wide road of dark stone, dirty and cluttered with various heaps ofunwanted refuse, spreads to the north as it enters the cavernous lowerward. Faint white shapes are scattered among the debris some long andnarrow others small and rounded. From somewhere comes the smell of cookingflesh, and strangely enough, the sound of anguished screams. A softtrickling sound drifts slowly from the west, each trickle echoes as if amillion droplets struck the stone at once.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA hideous trolloc is here, in a world of hurt.</string>
+      <string>A hideous trolloc is here, in a world of hurt.</string>
+      <string>A hideous trolloc is here, in a world of hurt.</string>
+      <string>A silent, black-robed figure watches you from afar.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Before the Rock Face</string>
+      <string xsi:nil="true" />
+      <string> Under the Granite Barbican</string>
+      <string> At the Courtyard</string>
+    </exitHeadings>
+    <placeHash>-1847625192</placeHash>
+    <connectedPlaceHashes>
+      <int>1661396769</int>
+      <int>0</int>
+      <int>1210629808</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Under the Granite Barbican</heading>
+    <description>Under the awning of the cavern entrance, fitful light flickers through thehatch like gate to the south making the smooth sided walls glisten likepossessed tapestries, almost as if souls fought some war within theshadows. The stone overhead has several metallic grates with no openings orother finger holes from this side installed seamlessly. The screams oftorture reverberating from the north, through the depths of the spire, likefleeing souls trying to find the escape to freedom.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA tall, ramshorned trolloc is here, commanding.</string>
+      <string>A tall, ramshorned trolloc is here, commanding.</string>
+      <string>A burly trolloc stands here, eyeing the surroundings.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Entering the Lower Ward</string>
+      <string xsi:nil="true" />
+      <string> Before the Southern Barbican</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1210629808</placeHash>
+    <connectedPlaceHashes>
+      <int>-1847625192</int>
+      <int>0</int>
+      <int>-52759287</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>2</gridRefY>
+  </Place>
+  <Place>
+    <heading> Before the Southern Barbican</heading>
+    <description>Black stones, a good dozen spans long and half-again as wide, form a thickroad leading into the depths of a dark rock face to the north, through ayawning gate of rusting metal. The rock face spreads upwards, high enoughto be concealed by a thick swirling mist. Thick gutters line the sides ofthe pale dusty road that descends southward into seething blight.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Under the Granite Barbican</string>
+      <string xsi:nil="true" />
+      <string> Bare Earth before a Gate</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-52759287</placeHash>
+    <connectedPlaceHashes>
+      <int>1210629808</int>
+      <int>0</int>
+      <int>-444322685</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Bare Earth before a Gate</heading>
+    <description>Hundreds of booted and bare feet have worn the paving stones to a polishedsheen. Drops of dried blood speckle the ground as a tribute to thismorning's entertainment. The smell of cooking human flesh wafts out of thegate and invitation to mayhem within.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA beaked trolloc is here, scouting.</string>
+      <string>A beaked trolloc is here, scouting.</string>
+      <string>A beaked trolloc is here, scouting.</string>
+      <string>A burly trolloc stands here, eyeing the surroundings.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Before the Southern Barbican</string>
+      <string> Ruined Pavement</string>
+      <string> Intersection of the Keep Road</string>
+      <string> In a Whirlwind of Choking Dust</string>
+    </exitHeadings>
+    <placeHash>-444322685</placeHash>
+    <connectedPlaceHashes>
+      <int>-52759287</int>
+      <int>-1996599112</int>
+      <int>140987319</int>
+      <int>-609845952</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Intersection of the Keep Road</heading>
+    <description>A large intersection is well patrolled by the traffic of the loomingtrolloc keep to the north. A whirlwind of dust dances across the pavingstones as if excited by all of the attention. Bold streaks of red blooddrip from corpses dragged in to the keep to provision the storerooms. Apile of vomit backs on the hot stones, covered with flies and writhing withmaggots. Dwarfed trees and sickly grasses thrust up between the pavingstones at a futile attempt at life.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA sickly, skinny deer stands here in a daze.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Bare Earth before a Gate</string>
+      <string> Road Before a Small Volcano</string>
+      <string> Keep Road at the Shore of a Poisoned Lake</string>
+      <string> Billowing Clouds of Sand and Dust</string>
+    </exitHeadings>
+    <placeHash>140987319</placeHash>
+    <connectedPlaceHashes>
+      <int>-444322685</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Ruined Pavement</heading>
+    <description>Someone or something has made a sport out of ripping up chunks of roadpaving stones. The bare earth below has been exposed to the wind andelements, loosening even more slabs of rock. Tossed off to the side is aheap of stones, of little use now, as they are no longer part of the road.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA huge mishappen bear, with large tusks howls hungrily.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> An Expanse of Mud Cracked Clay</string>
+      <string> Road Before a Small Volcano</string>
+      <string> Bare Earth before a Gate</string>
+    </exitHeadings>
+    <placeHash>-1996599112</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1422456087</int>
+      <int>-1618692485</int>
+      <int>-444322685</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> An Expanse of Mud Cracked Clay</heading>
+    <description>Large flakes of dried mud are scattered in the hot sun. A multitude oftracks cross the expanse defiling what nature has wrought. Scrubby busheseek out an existence, where what little water collects in the region. Theoccasional rock comes flying from a steaming volcanic cone to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> In the Rain Shadow of a Basalt Horst</string>
+      <string xsi:nil="true" />
+      <string> Ruined Pavement</string>
+    </exitHeadings>
+    <placeHash>-1422456087</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>48535175</int>
+      <int>0</int>
+      <int>-1996599112</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Before a Small Volcano</heading>
+    <description>The keep road bends abruptly around a pyroclastic cone. Small hot rockssizzle here, burning the wilted grass and twisted shrubs. The passage oftravelers to the south has skirted the danger to the east. A beaten pathclambers among tumbled boulders and reconnects to the road further east.The road leads northwesterly to the intersection of the westward path.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mAn agile cat-like creature stalks the blighted lands.</string>
+      <string>A hound of the shadow smells blood in the air.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Ruined Pavement</string>
+      <string xsi:nil="true" />
+      <string> Skirting a Belching Volcano</string>
+      <string> Intersection of the Keep Road</string>
+    </exitHeadings>
+    <placeHash>-1618692485</placeHash>
+    <connectedPlaceHashes>
+      <int>-1996599112</int>
+      <int>0</int>
+      <int>-1445869898</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Skirting a Belching Volcano</heading>
+    <description>The road is abruptly forced to the south here to avoid the poisonous plumeof a small volcanic cone. Large boulders have been purposefully displacedto allow foot traffic, but nobody has yet given thought to widening itfurther. Hasty shovels of soil fill cracks in the rock in the futileattempt to make this a passable road. A shallow lake lies to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Road Before a Small Volcano</string>
+      <string> A Hastily Constructed Road South of a Volcano</string>
+      <string> Wading in a Poisonous Lake</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1445869898</placeHash>
+    <connectedPlaceHashes>
+      <int>-1618692485</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> At the Courtyard</heading>
+    <description>A wide forum extends to the north and east under an arching canopy ofgleaming midnight stone. The walls and ceiling are wrinkled and craggedfrom the tools used to dig the gallery. Small rivulets of water drizzledown small gullies in the wall to the south, coalescing two by two into asolid stream, which flows into a giant well set against the bottom of thewall. Two paved paths border the courtyard, one to the north that leads tothe southern barbican and one to the north, which spans the length of thelower ward to connect the eastern gate with the western.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA wolfish trolloc is here, howling for blood.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Crossing of the Paths</string>
+      <string> Entering the Lower Ward</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>1531367330</placeHash>
+    <connectedPlaceHashes>
+      <int>-1282709101</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Awning of the Spire</heading>
+    <description>A broken chest lies crumbling on the northern side of the corridor, stainedsilk and thin linen spill out the broken sides onto the stone floor mixingwith the gray mud, dust and odiferous feces. A wide awning spreads acrossthe southern section of the corridor, long doors pulled open to allowentrance to the stables of the eyeless. Darkness writhes around thestalactites stretching forth from the cavern ceiling as it overhangs acobbled path that extends both east and west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Crossing of the Paths</string>
+      <string> The Dank Stable</string>
+      <string> Corner of a Dark Tunnel</string>
+    </exitHeadings>
+    <placeHash>241024662</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1282709101</int>
+      <int>673644414</int>
+      <int>-67001156</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Dank Stable</heading>
+    <description>Numerous stalls extend from the southern wall of the cavern, simplecubicles of shoulder high wood panels wide enough to fit a horse and agroom comfortably. The tools of the stable hand rest along the westernwall, a wide-bladed shovel next to a set of splayed pitchforks leaningagainst the paneled wall under a rack of grooming brushes. The trickle ofwater on rock resonates softly from the other side of the stable wall tothe west. Opposite the stalls, to the north, lies a small paved road.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA wolfish trolloc is here, howling for blood.</string>
+      <string>A black shadow stallion paws the ground here, fiery-red eyes shining with evil.</string>
+      <string>A black shadow stallion paws the ground here, fiery-red eyes shining with evil.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Awning of the Spire</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>673644414</placeHash>
+    <connectedPlaceHashes>
+      <int>241024662</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Corner of a Dark Tunnel</heading>
+    <description>Drifting slowly back and forth in a musty breeze, several half-decayedhuman heads hang from the awning of the barbican to the north. Flies flitback and forth feasting on the prizes of the dark's hordes until they arepicked and aged to a dingy white. Beginning at line of skulls, the ceilingbegins to rise slowly and craggily upwards as it curves eastwards headinginto a darkened cavern smelling of horses, blood, and decay.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA beastly, boar-headed trolloc growls maliciously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Under the Western Barbican</string>
+      <string> Awning of the Spire</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-67001156</placeHash>
+    <connectedPlaceHashes>
+      <int>348591495</int>
+      <int>241024662</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> Under the Western Barbican</heading>
+    <description>Glistening torchlight flickers fitfully from either side of the black gatesof the barbican. The soft golden light illuminates a pair of long pointedsteel poles sitting in a polished and worn wooden rack built into the northernwall. The chiseled stone walls rise to about half again as tall as atrolloc, where a cragged ceiling tops the gatehouse. A worn and brokencobbled road enters the spire under the blackened gate turning sharplysouthwards into the stone corridors shrouded in darkness.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA hideous trolloc is here, in a world of hurt.</string>
+      <string>A hideous trolloc is here, in a world of hurt.</string>
+      <string>A hideous trolloc is here, in a world of hurt.</string>
+      <string>A silent, black-robed figure watches you from afar.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Corner of a Dark Tunnel</string>
+      <string> A closed 'gate'</string>
+    </exitHeadings>
+    <placeHash>348591495</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-67001156</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Stairwell to the Upper Ward</heading>
+    <description>A long winding staircase descends from the heights to connect with the baseof the spire just north of the crossing. A cobbled pathway extends from thecrossing to the south to the base of the block staircase. Thick railings ofa pale ivory, yellowed with age, originate from a pair of pillars andextend upwards following the curve of the stairway. Shrill screams echodown the stairs echoing like an outgoing tide across the cavern. A pair ofblackened gates are set into a pair pillars, ready to bar the ascent intothe Spire at a moments warning from the blare of a trolloc's horn.</description>
+    <interactables>
+      <string>&#x1B;[32mA large bell is suspended from the ceiling.</string>
+      <string>&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Crossing of the Paths</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-2040664749</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1282709101</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Entering the Cavernous Chamber</heading>
+    <description>Broken down crates, rotting and stinking, are scattered around the flooramong refuse heaps of humanoid remains both before and after the digestiveprocess of the dark's hordes. A wide swathe through the cavern is kept clearof the refuse showing a stone-paved road leading westward into a crosswayof the spire's base. The eastern barbican extends to the north, while tothe south extends a butchery of sorts by the evident smell of cookingflesh, fresh blood and the periodic shrill scream.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Under the Eastern Barbican</string>
+      <string xsi:nil="true" />
+      <string> The Sea of Pots</string>
+      <string> Before the Rock Face</string>
+    </exitHeadings>
+    <placeHash>-1732009994</placeHash>
+    <connectedPlaceHashes>
+      <int>437004957</int>
+      <int>0</int>
+      <int>-1821229086</int>
+      <int>1661396769</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>0</gridRefY>
+  </Place>
+  <Place>
+    <heading> The Sea of Pots</heading>
+    <description>Giant racks of blacked steel line the southern and eastern stone walls.From floor to ceiling these racks hold hunks of meat, some identifiable asanimal while others as humanoid, dripping thick blackened and coagulatedblood slowly down the wall and into a drain in the center of the floor. Aroaring blaze lights up the western wall, nearly twice the length of afull-grown draghkar's wingspan, the roar of the fire almost drowns out theconstant smack of cleaver on bone coming from a thick wooden table in thecenter of the room.A stained sign has been lifted on the wall.</description>
+    <interactables>
+      <string>&#x1B;[32mA lantern has been left here.</string>
+      <string>A black cast iron cooking pot has been left here, newly washed.</string>
+      <string>&#x1B;[33mA massive and hairy trolloc is here sniffing the air.</string>
+      <string>A beastly, boar-headed trolloc growls maliciously.</string>
+      <string>A beastly, boar-headed trolloc growls maliciously.</string>
+      <string>A large trolloc dressed in bloodstained clothes grins maliciously.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Entering the Cavernous Chamber</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1821229086</placeHash>
+    <connectedPlaceHashes>
+      <int>-1732009994</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>1</gridRefY>
+  </Place>
+  <Place>
+    <heading> Under the Eastern Barbican</heading>
+    <description>A pitted and rusted iron gate, thicker than half a dozen trollocs abreast,spreads across the eastern half of the barbican. The walls of the barbicanare rough, hand chiseled rising several spans to connect with a domedceiling and an equally rough floor littered with refuse of trolloc pasttimes. The walls and the ceiling, begin to expand as they extendsouthwards, converging with a cavernous chamber.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA hideous trolloc is here, in a world of hurt.</string>
+      <string>A hideous trolloc is here, in a world of hurt.</string>
+      <string>A hideous trolloc is here, in a world of hurt.</string>
+      <string>A silent, black-robed figure watches you from afar.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> A closed 'gate'</string>
+      <string> Entering the Cavernous Chamber</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>437004957</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1732009994</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-2</gridRefX>
+    <gridRefY>-1</gridRefY>
+  </Place>
+  <Place>
+    <heading> In a Whirlwind of Choking Dust</heading>
+    <description>The air is heavy with a tan haze of choking loess. The occasional image canbe seen to the east and a large wall looms to the north. The wind seems tocollect in the location, making staying here a hazard in the best weather,yet the constant wind give a small portion of relief from the heat.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Bare Earth before a Gate</string>
+      <string> Billowing Clouds of Sand and Dust</string>
+      <string> Beside the Cornerstone</string>
+    </exitHeadings>
+    <placeHash>-609845952</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-444322685</int>
+      <int>0</int>
+      <int>-11479171</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Beside the Cornerstone</heading>
+    <description>The wall of a giant Keep comes to a corner here; above are the watchers ofthe Dark One. Anything done in their presence is done in his. The wallextends to the north and east, catching the wind and driving the hideousbeasts of the blight aside.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Midden Heap</string>
+      <string> In a Whirlwind of Choking Dust</string>
+      <string> East End of a Grabben Valley</string>
+      <string> Atop a Sandstone Horst</string>
+    </exitHeadings>
+    <placeHash>-11479171</placeHash>
+    <connectedPlaceHashes>
+      <int>82438580</int>
+      <int>-609845952</int>
+      <int>-964579903</int>
+      <int>2102842560</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Atop a Sandstone Horst</heading>
+    <description>At trapezoidal block of black rock has been thrust up here between thevalleys. The retreating cliff edge to the west makes for some trickyfooting. A graben valley lies to the south and a broad view of thepiedmont and alluvial fans would make a nice postcard if it were not forthe obvious track of a blight worm. A well-traveled road lies to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA sickly, skinny deer stands here in a daze.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Beside the Cornerstone</string>
+      <string> In a Wide Arid Valley</string>
+      <string> A Wide Crack Along a Thrust Fault</string>
+    </exitHeadings>
+    <placeHash>2102842560</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-11479171</int>
+      <int>0</int>
+      <int>-1928049944</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Wide Crack Along a Thrust Fault</heading>
+    <description>A wide crack in the top of the horst is impassable to the west, but a waycan be carefully chosen to reach the pile of gravel below. Scruffy plantshold on against the incessant, howling wind. Far to the east looking downupon the valley is an ancient keep.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Atop a Sandstone Horst</string>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1928049944</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>2102842560</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Midden Heap</heading>
+    <description>A giant pile of refuse has been tossed here. Twisted remains of weaponry,corpses, broken items of every description lie forgotten. Flies are oflittle concern because of the endless chain of malignant creatures thatfeed on them. With effort a path could be cleared into the heap of rottinggarbage to look for tidbits for flesh.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Beside the Cornerstone</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>82438580</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-11479171</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> East End of a Grabben Valley</heading>
+    <description>A large block of bedrock has subsided into the earth while largetrapezoidal blocks have thrust upward to the north and south. Erosion hascreated large alluvial fans of brecciate outwash tumbling down the hills,well sorted from the largest chunks to the finest clay. A dry streambedcuts into the soil here, a cruel reminder of the desert's oppression.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Beside the Cornerstone</string>
+      <string> Billowing Clouds of Sand and Dust</string>
+      <string> Arrow Straight Road in the Blight</string>
+      <string> In a Wide Arid Valley</string>
+    </exitHeadings>
+    <placeHash>-964579903</placeHash>
+    <connectedPlaceHashes>
+      <int>-11479171</int>
+      <int>-45164298</int>
+      <int>-1326127966</int>
+      <int>-1207959080</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Arrow Straight Road in the Blight</heading>
+    <description>The road in the bottom of the valley is almost pristine in its condition.Twenty spans wide with upturned edges to catch mud and water. Not a fissureor crack to be seen for as far as the eye can seen. The only clue to itstrue location is the ever-present stench of sulfur and carrion.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA sickly, skinny deer stands here in a daze.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> East End of a Grabben Valley</string>
+      <string> Road Along a Stinking Lake</string>
+      <string> Stinking Lake</string>
+      <string> Dwindling Road Width</string>
+    </exitHeadings>
+    <placeHash>-1326127966</placeHash>
+    <connectedPlaceHashes>
+      <int>-964579903</int>
+      <int>0</int>
+      <int>0</int>
+      <int>823905599</int>
+    </connectedPlaceHashes>
+    <gridRefX>1</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Billowing Clouds of Sand and Dust</heading>
+    <description>The valley to the east serves as a funnel for the prevailing winds to thisvery point. A steep increase in elevation channels the wind through thisnarrow gorge. Wind-sculpted rocks stand as silent sentinels to the passageof ages. All of the larger boulders and rock seem to be pointed in the samedirection away from the wind.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> In a Whirlwind of Choking Dust</string>
+      <string> Intersection of the Keep Road</string>
+      <string> Road Along a Stinking Lake</string>
+      <string> East End of a Grabben Valley</string>
+    </exitHeadings>
+    <placeHash>-45164298</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>1984456323</int>
+      <int>-964579903</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Road Along a Stinking Lake</heading>
+    <description>The air reeks of sulfur and rotting fish meat. Murky water trickles fromsand washed up onto the roadbed making black slippery growths of fungus.The road descends into a gently sloping valley with distant steep cliffs.The visible vegetation on the far side of the lake is blackened at thetrunks and shriveled in the leaves.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Billowing Clouds of Sand and Dust</string>
+      <string> Keep Road at the Shore of a Poisoned Lake</string>
+      <string> Fetid Water</string>
+      <string> Arrow Straight Road in the Blight</string>
+    </exitHeadings>
+    <placeHash>1984456323</placeHash>
+    <connectedPlaceHashes>
+      <int>-45164298</int>
+      <int>-1845973283</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>0</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Keep Road at the Shore of a Poisoned Lake</heading>
+    <description>The road to the keep skirts a vile cesspool of steaming and gas-belchingwater to the south. The long hard road turns north and west with a littlesmattering of acidic water sloshing on its southern side off the way. Atrickling steam of stench and caustic chemicals blocks progress to the eastand the lake itself lies to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Intersection of the Keep Road</string>
+      <string xsi:nil="true" />
+      <string> Shallows</string>
+      <string> Road Along a Stinking Lake</string>
+    </exitHeadings>
+    <placeHash>-1845973283</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>1984456323</int>
+    </connectedPlaceHashes>
+    <gridRefX>-1</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Dwindling Road Width</heading>
+    <description>The paved road, once grand and well maintained, dwindles to a mere path.Chunky paving stone jut out of the surface of the road at sharp angles.Occasionally a blue or red tile marker can be seen in the pavement, theiruse long forgotten. Sullen shapes fly overhead, carrion birds with littleinterest in a meal, their red talons proof of recent feasting.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> In a Wide Arid Valley</string>
+      <string> Arrow Straight Road in the Blight</string>
+      <string> Emerging from the Windbreak</string>
+      <string> Two</string>
+    </exitHeadings>
+    <placeHash>823905599</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1326127966</int>
+      <int>0</int>
+      <int>-1620855383</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> Two-Track to the Keep</heading>
+    <description>To traverse the road it is easiest to choose one track and keep to it.Large mounds of semi-turned earth lie between the tracks. Dead tufts ofgrass border the road, the smell of dried plant life mixes with theever-present dust. A few of the weaker sandstone rocks have been crushedunder the wheels of carts long past.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA sickly, skinny deer stands here in a daze.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> At the Bottom of a Thrust Fault</string>
+      <string> Dwindling Road Width</string>
+      <string xsi:nil="true" />
+      <string> At the Base of an Alluvial Fan</string>
+    </exitHeadings>
+    <placeHash>-1620855383</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>823905599</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> In a Wide Arid Valley</heading>
+    <description>The valley walls seem far distant from the center of this wide valley. Thewind has scoured a hole almost to the bedrock, kicking up a wall of dustmaking a whirlwind of haze to the east. Hardy plants try to live off thenearly absent moisture, a mockery of the verdant life to the far south.Something seems to be draining the very moisture from the land, eating atwhat little could survive in this harsh environment.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Atop a Sandstone Horst</string>
+      <string> East End of a Grabben Valley</string>
+      <string> Dwindling Road Width</string>
+      <string> At the Bottom of a Thrust Fault</string>
+    </exitHeadings>
+    <placeHash>-1207959080</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-964579903</int>
+      <int>0</int>
+      <int>1907628495</int>
+    </connectedPlaceHashes>
+    <gridRefX>2</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> At the Bottom of a Thrust Fault</heading>
+    <description>A wide crack in a wall of stand stone marks the end of the vast valley.Jagged rocks offer ample hand holds for travel up to the top of theoutcropping. The moaning of the wind vibrates in the crack, blowing sandand fine grit in an abrasive slurry. To the west a measured path ascendsthe valley wall, offering an easy way out.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> In a Wide Arid Valley</string>
+      <string> Two</string>
+      <string> Atop an Alluvial Fan</string>
+    </exitHeadings>
+    <placeHash>1907628495</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-1207959080</int>
+      <int>0</int>
+      <int>-1004423547</int>
+    </connectedPlaceHashes>
+    <gridRefX>3</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Atop an Alluvial Fan</heading>
+    <description>A broad alluvial fan spreads out into the valley. At the top, the bouldersand rock are hard to navigate around, making travel to the north risky. Atthe bottom of the fan, fine sand and clay adhere to any available surface,coating the land in a thick and choking dust. Every once in a while,something seems to be moving in the sand.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> A Sudden Cliff Face</string>
+      <string> At the Bottom of a Thrust Fault</string>
+      <string> At the Base of an Alluvial Fan</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1004423547</placeHash>
+    <connectedPlaceHashes>
+      <int>-1476546814</int>
+      <int>1907628495</int>
+      <int>207731555</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> At the Base of an Alluvial Fan</heading>
+    <description>Fine sand grows into a mound of gravel as an alluvial fan rises to thenorth. The base of the valley and the road follow the same path east-west,slowly descending to a lake that gleams with an unnatural glint. Menacingclouds in the sky are turned a shade of brown-gold, fully laden with siltand dust and causing irritation of the eyes.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA sickly, skinny deer stands here in a daze.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Atop an Alluvial Fan</string>
+      <string> Two</string>
+      <string> Re</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>207731555</placeHash>
+    <connectedPlaceHashes>
+      <int>-1004423547</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>6</gridRefY>
+  </Place>
+  <Place>
+    <heading> A Sudden Cliff Face</heading>
+    <description>All progress comes to a halt as stones skitter ahead off a giant cliff.Further progress is impossible and the most probable course of action is toturn back. A broad valley opens out to the east with a sickly brown lake atthe center of it. Verdant blight life can be seen across the lake, but isnoticeably absent to the north. The top of a large structure can be seenfar to the north and east.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA tall, ramshorned trolloc is here, commanding.</string>
+      <string>A tall, ramshorned trolloc is here, commanding.</string>
+      <string>A tall, ramshorned trolloc is here, commanding.</string>
+      <string>A tall, ramshorned trolloc is here, commanding.</string>
+      <string>A hissing myrddraal is fast on the trail of new prey.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Atop an Alluvial Fan</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>-1476546814</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-1004423547</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>4</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> In the Rain Shadow of a Basalt Horst</heading>
+    <description>A large basalt horst looms to the south, casting a looming shadow over thisland. The wind has varnished the bedrock to a high sheen with little pockmarks where softer material have given way to constant aerial assault. Tothe north is a enclosure of bushes. A curious white scrap marks the wall ofbasalt to the south.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Enclosure of Scrub</string>
+      <string> Atop a Fault Block Mountain</string>
+      <string xsi:nil="true" />
+      <string> An Expanse of Mud Cracked Clay</string>
+    </exitHeadings>
+    <placeHash>48535175</placeHash>
+    <connectedPlaceHashes>
+      <int>479128839</int>
+      <int>-968043423</int>
+      <int>0</int>
+      <int>-1422456087</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Enclosure of Scrub</heading>
+    <description>A circle of scrub-shrubs offer a slight protection against the elements.Small animal dung is hastily buried against the base of the stunted trees.Scratches in the blown sand expose the black bedrock underneath. The hotsun radiates from the rocks, backing every living thing.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33mA black shadow stallion paws the ground here, fiery-red eyes shining with evil.</string>
+      <string>&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> In the Rain Shadow of a Basalt Horst</string>
+      <string xsi:nil="true" />
+    </exitHeadings>
+    <placeHash>479128839</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>48535175</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>3</gridRefY>
+  </Place>
+  <Place>
+    <heading> Atop a Fault Block Mountain</heading>
+    <description>Complexly deformed basalt blocks thrust out at sharp angles from the riftvalley floor below. A blunt-edged ridge lies above the valley, running from east to the west, rising slightly. Along the playa floor, awell-traveled road runs to and from a large keep to the west.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string xsi:nil="true" />
+      <string> Paved Pathway in a Linear Valley</string>
+      <string> In the Rain Shadow of a Basalt Horst</string>
+    </exitHeadings>
+    <placeHash>-968043423</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>0</int>
+      <int>-31411445</int>
+      <int>48535175</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>4</gridRefY>
+  </Place>
+  <Place>
+    <heading> Paved Pathway in a Linear Valley</heading>
+    <description>The road enters the rift valley skirted on each side by wide outwash fansdescending from the large cliffs to the north and south. A sudden eruptionof molten rock to the east has littered the roadway with pumice stones anda layer of fine, gritty sand. The heat from the hill to the west repulsesall but the foolhardy.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> Atop a Fault Block Mountain</string>
+      <string xsi:nil="true" />
+      <string> On a Flattened Trail of Moving Moss</string>
+      <string> Pyroclastic Debris</string>
+    </exitHeadings>
+    <placeHash>-31411445</placeHash>
+    <connectedPlaceHashes>
+      <int>-968043423</int>
+      <int>0</int>
+      <int>0</int>
+      <int>833465809</int>
+    </connectedPlaceHashes>
+    <gridRefX>-5</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Pyroclastic Debris</heading>
+    <description>An eruption of gas and lava from a steaming hill to the west has thrown apile of debris over the pavement. Tiny steaming rocks pop and hiss as theycool on the ground. The gasses rolling from the west are almostoverwhelming in their pungency. A path to the south leads around the youngvolcano, avoiding most of the heat and fumes.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string xsi:nil="true" />
+      <string> Paved Pathway in a Linear Valley</string>
+      <string> Abrupt Curve in the Road</string>
+      <string> Splatter Cone</string>
+    </exitHeadings>
+    <placeHash>833465809</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>-31411445</int>
+      <int>0</int>
+      <int>-1806365054</int>
+    </connectedPlaceHashes>
+    <gridRefX>-4</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+  <Place>
+    <heading> Splatter Cone</heading>
+    <description>A new volcano has abruptly appeared here as if summoned. Black ash belchesfrom a large orifice in the ground. The debris below shifts dangerouslyunderfoot. Putrid gasses waft off the mount and into the valley below, andwithin the actual opening a menacing pressure is building.</description>
+    <interactables>
+      <string>&#x1B;[32m&#x1B;[33m&#x1B;[0m</string>
+    </interactables>
+    <exitHeadings>
+      <string> An Expanse of Mud Cracked Clay</string>
+      <string> Pyroclastic Debris</string>
+      <string> A Hastily Constructed Road South of a Volcano</string>
+      <string> Road Before a Small Volcano</string>
+    </exitHeadings>
+    <placeHash>-1806365054</placeHash>
+    <connectedPlaceHashes>
+      <int>0</int>
+      <int>833465809</int>
+      <int>0</int>
+      <int>0</int>
+    </connectedPlaceHashes>
+    <gridRefX>-3</gridRefX>
+    <gridRefY>5</gridRefY>
+  </Place>
+</ArrayOfPlace>
